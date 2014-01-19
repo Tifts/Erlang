@@ -1,0 +1,18 @@
+<html>
+
+<h1> Strona startowa </h1>
+
+<erl>
+out(A) ->
+	{ehtml, 
+		[{ul, [], 
+			[{li, [], {a, [{href, "example1.yaws"}], "Example 1"}},
+			 {li, [], {a, [{href, "example2.yaws"}], "Example 2"}},
+			 {li, [], {a, [{href, "example3.yaws"}], "Example 3"}},
+			 {li, [], {a, [{href, "example4.yaws"}], "Example 4"}}
+			]
+		}]
+	}.
+</erl>
+
+</html>

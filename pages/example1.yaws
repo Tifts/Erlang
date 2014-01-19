@@ -1,0 +1,27 @@
+<html>
+
+<h1> Example 1 </h1>
+<a href="index.yaws">Back to index</a>
+
+<erl>
+out(A) ->
+	Req = A#arg.req,
+	Headers = A#arg.headers,
+	{ehtml, 
+		[{h4, [], "HEADERS:"},
+		 {p,  [], io_lib:format("~p", [Headers#headers.user_agent])},
+		 {h4, [], "GET:"},
+		 {p,  [], io_lib:format("~p", [yaws_api:parse_query(A)])},
+		 {h4, [], "POST:"},
+		 {p,  [], io_lib:format("~p", [yaws_api:parse_post(A)])},
+		 {h4, [], "REQUEST:"},
+		 {ul, [],
+		 		[{li,[], f("method: ~s", 	[Req#http_request.method])},
+				 {li,[], f("path: ~p", 		[Req#http_request.path])},
+				 {li,[], f("version: ~p", 	[Req#http_request.version])}]
+		 }
+	    ]
+	}.
+</erl>
+
+</html>

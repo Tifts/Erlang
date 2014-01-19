@@ -1,0 +1,26 @@
+<html>
+
+<h1> Example 2 </h1>
+<a href="index.yaws">Back to index</a>
+
+<form action="example1.yaws" method="post">
+	<p>Your name:</p>
+	<input name="name" type="text">
+	<input type="submit">
+</form>
+
+<br/>
+
+<erl>
+out(A) ->
+	{ehtml, 
+		[{form, [{action, "example1.yaws"}, {method, "post"}], 
+			[{p, [], "Your name:"},
+			 {input, [{name, "name"}, {type, "text"}], []},
+			 {input, [{type, "submit"}], []}
+			]}
+		]
+	}.
+</erl>
+
+</html>

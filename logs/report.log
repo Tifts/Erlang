@@ -1,0 +1,1034 @@
+
+=INFO REPORT==== 17-Jan-2014::20:55:10 ===
+Ctlfile : /home/mateusz/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Jan-2014::20:55:10 ===
+Yaws: Listening to 0.0.0.0:8080 for <1> virtual servers:
+ - http://example1:8080 under /home/mateusz/AGH/yaws/Erlang
+
+=INFO REPORT==== 17-Jan-2014::20:55:10 ===
+Yaws: Listening to 0.0.0.0:2999 for <1> virtual servers:
+ - http://localhost:2999 under /home/mateusz/AGH/erlang/yaws/ruby/app/public
+
+=INFO REPORT==== 17-Jan-2014::20:56:13 ===
+Ctlfile : /home/mateusz/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Jan-2014::20:56:13 ===
+Yaws: Listening to 0.0.0.0:8080 for <1> virtual servers:
+ - http://example1:8080 under /home/mateusz/AGH/yaws/Erlang/example1
+
+=INFO REPORT==== 17-Jan-2014::20:56:13 ===
+Yaws: Listening to 0.0.0.0:2999 for <1> virtual servers:
+ - http://localhost:2999 under /home/mateusz/AGH/erlang/yaws/ruby/app/public
+
+=INFO REPORT==== 17-Jan-2014::21:04:47 ===
+Ctlfile : /home/mateusz/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Jan-2014::21:04:47 ===
+Yaws: Listening to 0.0.0.0:8001 for <1> virtual servers:
+ - http://example1:8001 under /home/mateusz/AGH/yaws/Erlang/example1
+
+=INFO REPORT==== 17-Jan-2014::21:04:47 ===
+Yaws: Listening to 0.0.0.0:2999 for <1> virtual servers:
+ - http://localhost:2999 under /home/mateusz/AGH/erlang/yaws/ruby/app/public
+
+=INFO REPORT==== 17-Jan-2014::21:06:58 ===
+yaws debug:Add path "/home/mateusz/AGH/yaws/Erlang/ebin"
+
+=INFO REPORT==== 17-Jan-2014::21:06:58 ===
+yaws debug:Add path "/usr/lib/yaws/examples/ebin"
+
+=INFO REPORT==== 17-Jan-2014::21:06:58 ===
+yaws debug:Running with id="default" (localinstall=false) 
+Running with debug checks turned on (slower server) 
+Logging to directory "/home/mateusz/AGH/yaws/Erlang/logs"
+
+=INFO REPORT==== 17-Jan-2014::21:06:58 ===
+Ctlfile : /home/mateusz/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Jan-2014::21:06:58 ===
+Yaws: Listening to 0.0.0.0:8001 for <1> virtual servers:
+ - http://example1:8001 under /home/mateusz/AGH/yaws/Erlang/example1
+
+=INFO REPORT==== 17-Jan-2014::21:06:58 ===
+Yaws: Listening to 0.0.0.0:2999 for <1> virtual servers:
+ - http://localhost:2999 under /home/mateusz/AGH/erlang/yaws/ruby/app/public
+
+=INFO REPORT==== 17-Jan-2014::21:08:41 ===
+yaws debug:Add path "/home/mateusz/AGH/yaws/Erlang/ebin"
+
+=INFO REPORT==== 17-Jan-2014::21:08:41 ===
+yaws debug:Add path "/usr/lib/yaws/examples/ebin"
+
+=INFO REPORT==== 17-Jan-2014::21:08:41 ===
+yaws debug:Running with id="default" (localinstall=false) 
+Running with debug checks turned on (slower server) 
+Logging to directory "/home/mateusz/AGH/yaws/Erlang/logs"
+
+=INFO REPORT==== 17-Jan-2014::21:08:41 ===
+Ctlfile : /home/mateusz/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Jan-2014::21:08:41 ===
+Yaws: Listening to 0.0.0.0:8001 for <1> virtual servers:
+ - http://example1:8001 under /home/mateusz/AGH/yaws/Erlang/example1
+
+=INFO REPORT==== 17-Jan-2014::21:08:41 ===
+Yaws: Listening to 0.0.0.0:2999 for <1> virtual servers:
+ - http://localhost:2999 under /home/mateusz/AGH/erlang/yaws/ruby/app/public
+
+=INFO REPORT==== 17-Jan-2014::21:08:52 ===
+yaws debug:Add path "/home/mateusz/AGH/yaws/Erlang/ebin"
+
+=INFO REPORT==== 17-Jan-2014::21:08:52 ===
+yaws debug:Add path "/usr/lib/yaws/examples/ebin"
+
+=INFO REPORT==== 17-Jan-2014::21:08:52 ===
+yaws debug:Running with id="default" (localinstall=false) 
+Running with debug checks turned on (slower server) 
+Logging to directory "/home/mateusz/AGH/yaws/Erlang/logs"
+
+=INFO REPORT==== 17-Jan-2014::21:08:52 ===
+Ctlfile : /home/mateusz/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Jan-2014::21:08:52 ===
+Yaws: Listening to 0.0.0.0:8001 for <1> virtual servers:
+ - http://example1:8001 under /home/mateusz/AGH/yaws/Erlang/example1
+
+=INFO REPORT==== 17-Jan-2014::21:08:52 ===
+Yaws: Listening to 0.0.0.0:2999 for <1> virtual servers:
+ - http://localhost:2999 under /home/mateusz/AGH/erlang/yaws/ruby/app/public
+
+=INFO REPORT==== 17-Jan-2014::21:09:13 ===
+yaws debug:Add path "/home/mateusz/AGH/yaws/Erlang/ebin"
+
+=INFO REPORT==== 17-Jan-2014::21:09:13 ===
+yaws debug:Add path "/usr/lib/yaws/examples/ebin"
+
+=INFO REPORT==== 17-Jan-2014::21:09:13 ===
+yaws debug:Running with id="default" (localinstall=false) 
+Running with debug checks turned on (slower server) 
+Logging to directory "/home/mateusz/AGH/yaws/Erlang/logs"
+
+=INFO REPORT==== 17-Jan-2014::21:09:13 ===
+Ctlfile : /home/mateusz/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Jan-2014::21:09:13 ===
+Yaws: Listening to 0.0.0.0:8001 for <1> virtual servers:
+ - http://example1:8001 under /home/mateusz/AGH/yaws/Erlang/example1
+
+=INFO REPORT==== 17-Jan-2014::21:09:13 ===
+Yaws: Listening to 0.0.0.0:2999 for <1> virtual servers:
+ - http://localhost:2999 under /home/mateusz/AGH/erlang/yaws/ruby/app/public
+
+=INFO REPORT==== 17-Jan-2014::21:09:22 ===
+yaws debug:Add path "/home/mateusz/AGH/yaws/Erlang/ebin"
+
+=INFO REPORT==== 17-Jan-2014::21:09:22 ===
+yaws debug:Add path "/usr/lib/yaws/examples/ebin"
+
+=INFO REPORT==== 17-Jan-2014::21:09:22 ===
+yaws debug:Running with id="default" (localinstall=false) 
+Running with debug checks turned on (slower server) 
+Logging to directory "/home/mateusz/AGH/yaws/Erlang/logs"
+
+=INFO REPORT==== 17-Jan-2014::21:09:22 ===
+Ctlfile : /home/mateusz/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Jan-2014::21:09:22 ===
+Yaws: Listening to 0.0.0.0:8001 for <1> virtual servers:
+ - http://example1:8001 under /home/mateusz/AGH/yaws/Erlang/example1
+
+=INFO REPORT==== 17-Jan-2014::21:09:22 ===
+Yaws: Listening to 0.0.0.0:2999 for <1> virtual servers:
+ - http://localhost:2999 under /home/mateusz/AGH/erlang/yaws/ruby/app/public
+
+=ERROR REPORT==== 17-Jan-2014::21:15:22 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/example1/index.yaws"
+=ERROR REPORT==== 17-Jan-2014::21:23:26 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/example1/index.yaws"
+=ERROR REPORT==== 17-Jan-2014::21:37:14 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/example1/index.yaws"
+=ERROR REPORT==== 17-Jan-2014::21:38:18 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/index.yaws:15:
+ syntax error before: '{'
+generated file at: /home/mateusz/.yaws/yaws/default/m11.erl
+
+=ERROR REPORT==== 17-Jan-2014::21:38:26 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/index.yaws:15:
+ variable 'Req' is unbound
+generated file at: /home/mateusz/.yaws/yaws/default/m12.erl
+
+=ERROR REPORT==== 17-Jan-2014::21:38:56 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/example1/index.yaws"
+=ERROR REPORT==== 17-Jan-2014::21:39:21 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/example1/index.yaws"
+=ERROR REPORT==== 17-Jan-2014::21:41:05 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/index.yaws:21:
+ syntax error before: '}'
+generated file at: /home/mateusz/.yaws/yaws/default/m15.erl
+
+=ERROR REPORT==== 17-Jan-2014::21:41:23 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/example1/index.yaws"
+=ERROR REPORT==== 17-Jan-2014::21:50:25 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/example1/index.yaws"
+=ERROR REPORT==== 17-Jan-2014::21:50:54 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/example1/index.yaws"
+=ERROR REPORT==== 17-Jan-2014::22:04:02 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/example1/index.yaws"
+=ERROR REPORT==== 17-Jan-2014::22:07:35 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/example1/example1.yaws"
+=ERROR REPORT==== 17-Jan-2014::22:07:37 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/example1/example1.yaws"
+=ERROR REPORT==== 17-Jan-2014::22:08:56 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/index.yaws:9:
+ syntax error before: ']'
+generated file at: /home/mateusz/.yaws/yaws/default/m21.erl
+
+=ERROR REPORT==== 17-Jan-2014::22:09:18 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/index.yaws:13:
+ syntax error before: ']'
+generated file at: /home/mateusz/.yaws/yaws/default/m22.erl
+
+=ERROR REPORT==== 17-Jan-2014::22:09:19 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/index.yaws:13:
+ syntax error before: ']'
+generated file at: /home/mateusz/.yaws/yaws/default/m23.erl
+
+=ERROR REPORT==== 17-Jan-2014::22:09:36 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/index.yaws:13:
+ syntax error before: ']'
+generated file at: /home/mateusz/.yaws/yaws/default/m24.erl
+
+=ERROR REPORT==== 17-Jan-2014::22:09:37 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/index.yaws:13:
+ syntax error before: ']'
+generated file at: /home/mateusz/.yaws/yaws/default/m25.erl
+
+=ERROR REPORT==== 17-Jan-2014::22:21:33 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/index.yaws:13:
+ syntax error before: ']'
+generated file at: /home/mateusz/.yaws/yaws/default/m26.erl
+
+=ERROR REPORT==== 17-Jan-2014::22:21:33 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/index.yaws:13:
+ syntax error before: ']'
+generated file at: /home/mateusz/.yaws/yaws/default/m27.erl
+
+=ERROR REPORT==== 17-Jan-2014::22:21:34 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/index.yaws:13:
+ syntax error before: ']'
+generated file at: /home/mateusz/.yaws/yaws/default/m28.erl
+
+=ERROR REPORT==== 17-Jan-2014::22:21:34 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/index.yaws:13:
+ syntax error before: ']'
+generated file at: /home/mateusz/.yaws/yaws/default/m29.erl
+
+=ERROR REPORT==== 17-Jan-2014::22:22:18 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/index.yaws:13:
+ syntax error before: ']'
+generated file at: /home/mateusz/.yaws/yaws/default/m30.erl
+
+=INFO REPORT==== 18-Jan-2014::14:50:52 ===
+yaws debug:Add path "/home/mateusz/AGH/yaws/Erlang/ebin"
+
+=INFO REPORT==== 18-Jan-2014::14:50:52 ===
+yaws debug:Add path "/usr/lib/yaws/examples/ebin"
+
+=INFO REPORT==== 18-Jan-2014::14:50:52 ===
+yaws debug:Running with id="default" (localinstall=false) 
+Running with debug checks turned on (slower server) 
+Logging to directory "/home/mateusz/AGH/yaws/Erlang/logs"
+
+=INFO REPORT==== 18-Jan-2014::14:50:52 ===
+Ctlfile : /root/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 18-Jan-2014::14:50:52 ===
+Yaws: Listening to 0.0.0.0:8080 for <1> virtual servers:
+ - http://example1:8080 under /home/mateusz/AGH/yaws/Erlang/example1
+
+=INFO REPORT==== 18-Jan-2014::14:50:52 ===
+Yaws: Listening to 0.0.0.0:2999 for <1> virtual servers:
+ - http://localhost:2999 under /home/mateusz/AGH/erlang/yaws/ruby/app/public
+
+=ERROR REPORT==== 18-Jan-2014::14:51:05 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/example1/example1.yaws"
+=ERROR REPORT==== 18-Jan-2014::14:51:09 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/example1/example1.yaws"
+=ERROR REPORT==== 18-Jan-2014::16:24:47 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/example1/example1.yaws"
+=ERROR REPORT==== 18-Jan-2014::16:35:09 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/example1/example1.yaws"
+=ERROR REPORT==== 18-Jan-2014::16:35:13 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/example1/example1.yaws"
+=ERROR REPORT==== 18-Jan-2014::16:49:39 ===
+Yaws process died: {function_clause,
+                    [{yaws_server,binary_size,
+                      [529,
+                       {done,
+                        {dict,1,16,16,8,80,48,
+                         {[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]},
+                         {{[],[],[],
+                           [["foo",
+                             {"filename","rurki.m"},
+                             {value,
+                              "beginTime = time();\n\nn = 1000;\nh = 2 / n;\n\n%% WYPELNIENIE DIAGONALI %%\nM = sparse(n+1, n+1);\nfor i = 1:n+1\n\tM(i, i) = (2 / h^2);\nend\nfor i = 1:n\n\tM(i,i+1) = (- 1 / h^2);\n\tM(i+1,i) = (- 1 / h^2);\nend\n\n%% WARUNKI POCZATKOWE %%\nM(1, 1) = -1 / h + 1;\nM(1, 2) = 1 / h;\nM(n+1, :) = [zeros(1, n), 1];\nY = ones(n + 1, 1);\nY(1:n/2) = 10;\nY(n/2+1 : n+1) = 5;\nY(n + 1) = 0;\n\n%% ELIMINACJA GAUSSA %%\n\nM = [M, Y];\nfor i = 1:n\n\tif M(i, i) == 0\n\t\ttemp = M(i,1:end);\n\t\tM(i,1:end) = M(i+1,1:end);\n\t\tM(i+1,1:end) = temp;\n\tendif\n\tM(i + 1, i + 1) -= (M(i + 1, i) / M(i, i)) * M(i, i+1);\n\tM(i + 1, n + 2) -= (M(i + 1, i) / M(i, i)) * M(i, n+2);\n\tM(i + 1, i) = 0; \nend\n\n%% PODSTAWIANIE %%\nY = M(1:end, n + 2);\nM = M(1:end, 1:n+1);\n\nU = zeros(n+1, 1);\nfor i = n-1:-1:1\n\tsum  = M(i, i + 1) * U(i + 1);\n\tsum += M(i, i + 2) * U(i + 2);\n\tU(i) = (Y(i) - sum) / M(i, i);  \nend\n\n%% RYSOWANIE WYKRESU %%\nX = ones(1, n + 1);\nfor i = 1:n+1\n\tX(i) = (i-1) * h;\nend\n\nplot(X, U)\n\nprocessingTime = time() - beginTime"},
+                             {content_type,"text/x-objcsrc"}]],
+                           [],[],[],[],[],[],[],[],[],[],[],[]}}}}],
+                      [{file,"yaws_server.erl"},{line,2964}]},
+                     {yaws_server,binary_size,2,
+                      [{file,"yaws_server.erl"},{line,2967}]},
+                     {yaws_server,binary_size,2,
+                      [{file,"yaws_server.erl"},{line,2967}]},
+                     {yaws_server,deflate_accumulated,4,
+                      [{file,"yaws_server.erl"},{line,3653}]},
+                     {yaws_server,deliver_accumulated,4,
+                      [{file,"yaws_server.erl"},{line,3607}]},
+                     {yaws_server,finish_up_dyn_file,2,
+                      [{file,"yaws_server.erl"},{line,2694}]},
+                     {yaws_server,aloop,4,
+                      [{file,"yaws_server.erl"},{line,1152}]},
+                     {yaws_server,acceptor0,2,
+                      [{file,"yaws_server.erl"},{line,1013}]}]}
+
+=ERROR REPORT==== 18-Jan-2014::16:49:42 ===
+Yaws process died: {function_clause,
+                    [{yaws_server,binary_size,
+                      [529,
+                       {done,
+                        {dict,1,16,16,8,80,48,
+                         {[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]},
+                         {{[],[],[],
+                           [["foo",
+                             {"filename","rurki.m"},
+                             {value,
+                              "beginTime = time();\n\nn = 1000;\nh = 2 / n;\n\n%% WYPELNIENIE DIAGONALI %%\nM = sparse(n+1, n+1);\nfor i = 1:n+1\n\tM(i, i) = (2 / h^2);\nend\nfor i = 1:n\n\tM(i,i+1) = (- 1 / h^2);\n\tM(i+1,i) = (- 1 / h^2);\nend\n\n%% WARUNKI POCZATKOWE %%\nM(1, 1) = -1 / h + 1;\nM(1, 2) = 1 / h;\nM(n+1, :) = [zeros(1, n), 1];\nY = ones(n + 1, 1);\nY(1:n/2) = 10;\nY(n/2+1 : n+1) = 5;\nY(n + 1) = 0;\n\n%% ELIMINACJA GAUSSA %%\n\nM = [M, Y];\nfor i = 1:n\n\tif M(i, i) == 0\n\t\ttemp = M(i,1:end);\n\t\tM(i,1:end) = M(i+1,1:end);\n\t\tM(i+1,1:end) = temp;\n\tendif\n\tM(i + 1, i + 1) -= (M(i + 1, i) / M(i, i)) * M(i, i+1);\n\tM(i + 1, n + 2) -= (M(i + 1, i) / M(i, i)) * M(i, n+2);\n\tM(i + 1, i) = 0; \nend\n\n%% PODSTAWIANIE %%\nY = M(1:end, n + 2);\nM = M(1:end, 1:n+1);\n\nU = zeros(n+1, 1);\nfor i = n-1:-1:1\n\tsum  = M(i, i + 1) * U(i + 1);\n\tsum += M(i, i + 2) * U(i + 2);\n\tU(i) = (Y(i) - sum) / M(i, i);  \nend\n\n%% RYSOWANIE WYKRESU %%\nX = ones(1, n + 1);\nfor i = 1:n+1\n\tX(i) = (i-1) * h;\nend\n\nplot(X, U)\n\nprocessingTime = time() - beginTime"},
+                             {content_type,"text/x-objcsrc"}]],
+                           [],[],[],[],[],[],[],[],[],[],[],[]}}}}],
+                      [{file,"yaws_server.erl"},{line,2964}]},
+                     {yaws_server,binary_size,2,
+                      [{file,"yaws_server.erl"},{line,2967}]},
+                     {yaws_server,binary_size,2,
+                      [{file,"yaws_server.erl"},{line,2967}]},
+                     {yaws_server,deflate_accumulated,4,
+                      [{file,"yaws_server.erl"},{line,3653}]},
+                     {yaws_server,deliver_accumulated,4,
+                      [{file,"yaws_server.erl"},{line,3607}]},
+                     {yaws_server,finish_up_dyn_file,2,
+                      [{file,"yaws_server.erl"},{line,2694}]},
+                     {yaws_server,aloop,4,
+                      [{file,"yaws_server.erl"},{line,1152}]},
+                     {yaws_server,acceptor0,2,
+                      [{file,"yaws_server.erl"},{line,1013}]}]}
+
+=ERROR REPORT==== 18-Jan-2014::16:49:46 ===
+Yaws process died: {function_clause,
+                    [{yaws_server,binary_size,
+                      [529,
+                       {done,
+                        {dict,1,16,16,8,80,48,
+                         {[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]},
+                         {{[],[],[],
+                           [["foo",
+                             {"filename","rurki.m"},
+                             {value,
+                              "beginTime = time();\n\nn = 1000;\nh = 2 / n;\n\n%% WYPELNIENIE DIAGONALI %%\nM = sparse(n+1, n+1);\nfor i = 1:n+1\n\tM(i, i) = (2 / h^2);\nend\nfor i = 1:n\n\tM(i,i+1) = (- 1 / h^2);\n\tM(i+1,i) = (- 1 / h^2);\nend\n\n%% WARUNKI POCZATKOWE %%\nM(1, 1) = -1 / h + 1;\nM(1, 2) = 1 / h;\nM(n+1, :) = [zeros(1, n), 1];\nY = ones(n + 1, 1);\nY(1:n/2) = 10;\nY(n/2+1 : n+1) = 5;\nY(n + 1) = 0;\n\n%% ELIMINACJA GAUSSA %%\n\nM = [M, Y];\nfor i = 1:n\n\tif M(i, i) == 0\n\t\ttemp = M(i,1:end);\n\t\tM(i,1:end) = M(i+1,1:end);\n\t\tM(i+1,1:end) = temp;\n\tendif\n\tM(i + 1, i + 1) -= (M(i + 1, i) / M(i, i)) * M(i, i+1);\n\tM(i + 1, n + 2) -= (M(i + 1, i) / M(i, i)) * M(i, n+2);\n\tM(i + 1, i) = 0; \nend\n\n%% PODSTAWIANIE %%\nY = M(1:end, n + 2);\nM = M(1:end, 1:n+1);\n\nU = zeros(n+1, 1);\nfor i = n-1:-1:1\n\tsum  = M(i, i + 1) * U(i + 1);\n\tsum += M(i, i + 2) * U(i + 2);\n\tU(i) = (Y(i) - sum) / M(i, i);  \nend\n\n%% RYSOWANIE WYKRESU %%\nX = ones(1, n + 1);\nfor i = 1:n+1\n\tX(i) = (i-1) * h;\nend\n\nplot(X, U)\n\nprocessingTime = time() - beginTime"},
+                             {content_type,"text/x-objcsrc"}]],
+                           [],[],[],[],[],[],[],[],[],[],[],[]}}}}],
+                      [{file,"yaws_server.erl"},{line,2964}]},
+                     {yaws_server,binary_size,2,
+                      [{file,"yaws_server.erl"},{line,2967}]},
+                     {yaws_server,binary_size,2,
+                      [{file,"yaws_server.erl"},{line,2967}]},
+                     {yaws_server,deflate_accumulated,4,
+                      [{file,"yaws_server.erl"},{line,3653}]},
+                     {yaws_server,deliver_accumulated,4,
+                      [{file,"yaws_server.erl"},{line,3607}]},
+                     {yaws_server,finish_up_dyn_file,2,
+                      [{file,"yaws_server.erl"},{line,2694}]},
+                     {yaws_server,aloop,4,
+                      [{file,"yaws_server.erl"},{line,1152}]},
+                     {yaws_server,acceptor0,2,
+                      [{file,"yaws_server.erl"},{line,1013}]}]}
+
+=ERROR REPORT==== 18-Jan-2014::16:49:53 ===
+Yaws process died: {function_clause,
+                    [{yaws_server,binary_size,
+                      [534,
+                       {done,
+                        {dict,1,16,16,8,80,48,
+                         {[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]},
+                         {{[],[],[],
+                           [["foo",
+                             {"filename","rurki.m"},
+                             {value,
+                              "beginTime = time();\n\nn = 1000;\nh = 2 / n;\n\n%% WYPELNIENIE DIAGONALI %%\nM = sparse(n+1, n+1);\nfor i = 1:n+1\n\tM(i, i) = (2 / h^2);\nend\nfor i = 1:n\n\tM(i,i+1) = (- 1 / h^2);\n\tM(i+1,i) = (- 1 / h^2);\nend\n\n%% WARUNKI POCZATKOWE %%\nM(1, 1) = -1 / h + 1;\nM(1, 2) = 1 / h;\nM(n+1, :) = [zeros(1, n), 1];\nY = ones(n + 1, 1);\nY(1:n/2) = 10;\nY(n/2+1 : n+1) = 5;\nY(n + 1) = 0;\n\n%% ELIMINACJA GAUSSA %%\n\nM = [M, Y];\nfor i = 1:n\n\tif M(i, i) == 0\n\t\ttemp = M(i,1:end);\n\t\tM(i,1:end) = M(i+1,1:end);\n\t\tM(i+1,1:end) = temp;\n\tendif\n\tM(i + 1, i + 1) -= (M(i + 1, i) / M(i, i)) * M(i, i+1);\n\tM(i + 1, n + 2) -= (M(i + 1, i) / M(i, i)) * M(i, n+2);\n\tM(i + 1, i) = 0; \nend\n\n%% PODSTAWIANIE %%\nY = M(1:end, n + 2);\nM = M(1:end, 1:n+1);\n\nU = zeros(n+1, 1);\nfor i = n-1:-1:1\n\tsum  = M(i, i + 1) * U(i + 1);\n\tsum += M(i, i + 2) * U(i + 2);\n\tU(i) = (Y(i) - sum) / M(i, i);  \nend\n\n%% RYSOWANIE WYKRESU %%\nX = ones(1, n + 1);\nfor i = 1:n+1\n\tX(i) = (i-1) * h;\nend\n\nplot(X, U)\n\nprocessingTime = time() - beginTime"},
+                             {content_type,"text/x-objcsrc"}]],
+                           [],[],[],[],[],[],[],[],[],[],[],[]}}}}],
+                      [{file,"yaws_server.erl"},{line,2964}]},
+                     {yaws_server,binary_size,2,
+                      [{file,"yaws_server.erl"},{line,2967}]},
+                     {yaws_server,binary_size,2,
+                      [{file,"yaws_server.erl"},{line,2967}]},
+                     {yaws_server,deflate_accumulated,4,
+                      [{file,"yaws_server.erl"},{line,3653}]},
+                     {yaws_server,deliver_accumulated,4,
+                      [{file,"yaws_server.erl"},{line,3607}]},
+                     {yaws_server,finish_up_dyn_file,2,
+                      [{file,"yaws_server.erl"},{line,2694}]},
+                     {yaws_server,aloop,4,
+                      [{file,"yaws_server.erl"},{line,1152}]},
+                     {yaws_server,acceptor0,2,
+                      [{file,"yaws_server.erl"},{line,1013}]}]}
+
+=ERROR REPORT==== 18-Jan-2014::16:49:56 ===
+Yaws process died: {function_clause,
+                    [{yaws_server,binary_size,
+                      [534,
+                       {done,
+                        {dict,1,16,16,8,80,48,
+                         {[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]},
+                         {{[],[],[],
+                           [["foo",
+                             {"filename","rurki.m"},
+                             {value,
+                              "beginTime = time();\n\nn = 1000;\nh = 2 / n;\n\n%% WYPELNIENIE DIAGONALI %%\nM = sparse(n+1, n+1);\nfor i = 1:n+1\n\tM(i, i) = (2 / h^2);\nend\nfor i = 1:n\n\tM(i,i+1) = (- 1 / h^2);\n\tM(i+1,i) = (- 1 / h^2);\nend\n\n%% WARUNKI POCZATKOWE %%\nM(1, 1) = -1 / h + 1;\nM(1, 2) = 1 / h;\nM(n+1, :) = [zeros(1, n), 1];\nY = ones(n + 1, 1);\nY(1:n/2) = 10;\nY(n/2+1 : n+1) = 5;\nY(n + 1) = 0;\n\n%% ELIMINACJA GAUSSA %%\n\nM = [M, Y];\nfor i = 1:n\n\tif M(i, i) == 0\n\t\ttemp = M(i,1:end);\n\t\tM(i,1:end) = M(i+1,1:end);\n\t\tM(i+1,1:end) = temp;\n\tendif\n\tM(i + 1, i + 1) -= (M(i + 1, i) / M(i, i)) * M(i, i+1);\n\tM(i + 1, n + 2) -= (M(i + 1, i) / M(i, i)) * M(i, n+2);\n\tM(i + 1, i) = 0; \nend\n\n%% PODSTAWIANIE %%\nY = M(1:end, n + 2);\nM = M(1:end, 1:n+1);\n\nU = zeros(n+1, 1);\nfor i = n-1:-1:1\n\tsum  = M(i, i + 1) * U(i + 1);\n\tsum += M(i, i + 2) * U(i + 2);\n\tU(i) = (Y(i) - sum) / M(i, i);  \nend\n\n%% RYSOWANIE WYKRESU %%\nX = ones(1, n + 1);\nfor i = 1:n+1\n\tX(i) = (i-1) * h;\nend\n\nplot(X, U)\n\nprocessingTime = time() - beginTime"},
+                             {content_type,"text/x-objcsrc"}]],
+                           [],[],[],[],[],[],[],[],[],[],[],[]}}}}],
+                      [{file,"yaws_server.erl"},{line,2964}]},
+                     {yaws_server,binary_size,2,
+                      [{file,"yaws_server.erl"},{line,2967}]},
+                     {yaws_server,binary_size,2,
+                      [{file,"yaws_server.erl"},{line,2967}]},
+                     {yaws_server,deflate_accumulated,4,
+                      [{file,"yaws_server.erl"},{line,3653}]},
+                     {yaws_server,deliver_accumulated,4,
+                      [{file,"yaws_server.erl"},{line,3607}]},
+                     {yaws_server,finish_up_dyn_file,2,
+                      [{file,"yaws_server.erl"},{line,2694}]},
+                     {yaws_server,aloop,4,
+                      [{file,"yaws_server.erl"},{line,1152}]},
+                     {yaws_server,acceptor0,2,
+                      [{file,"yaws_server.erl"},{line,1013}]}]}
+
+=INFO REPORT==== 18-Jan-2014::16:50:03 ===
+yaws debug:Add path "/home/mateusz/AGH/yaws/Erlang/ebin"
+
+=INFO REPORT==== 18-Jan-2014::16:50:03 ===
+yaws debug:Add path "/usr/lib/yaws/examples/ebin"
+
+=INFO REPORT==== 18-Jan-2014::16:50:03 ===
+yaws debug:Running with id="default" (localinstall=false) 
+Running with debug checks turned on (slower server) 
+Logging to directory "/home/mateusz/AGH/yaws/Erlang/logs"
+
+=INFO REPORT==== 18-Jan-2014::16:50:03 ===
+Ctlfile : /root/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 18-Jan-2014::16:50:03 ===
+Yaws: Listening to 0.0.0.0:8080 for <1> virtual servers:
+ - http://example1:8080 under /home/mateusz/AGH/yaws/Erlang/example1
+
+=INFO REPORT==== 18-Jan-2014::16:50:03 ===
+Yaws: Listening to 0.0.0.0:2999 for <1> virtual servers:
+ - http://localhost:2999 under /home/mateusz/AGH/erlang/yaws/ruby/app/public
+
+=ERROR REPORT==== 18-Jan-2014::16:50:08 ===
+Yaws process died: {function_clause,
+                    [{yaws_server,binary_size,
+                      [534,
+                       {done,
+                        {dict,1,16,16,8,80,48,
+                         {[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]},
+                         {{[],[],[],
+                           [["foo",
+                             {"filename","rurki.m"},
+                             {value,
+                              "beginTime = time();\n\nn = 1000;\nh = 2 / n;\n\n%% WYPELNIENIE DIAGONALI %%\nM = sparse(n+1, n+1);\nfor i = 1:n+1\n\tM(i, i) = (2 / h^2);\nend\nfor i = 1:n\n\tM(i,i+1) = (- 1 / h^2);\n\tM(i+1,i) = (- 1 / h^2);\nend\n\n%% WARUNKI POCZATKOWE %%\nM(1, 1) = -1 / h + 1;\nM(1, 2) = 1 / h;\nM(n+1, :) = [zeros(1, n), 1];\nY = ones(n + 1, 1);\nY(1:n/2) = 10;\nY(n/2+1 : n+1) = 5;\nY(n + 1) = 0;\n\n%% ELIMINACJA GAUSSA %%\n\nM = [M, Y];\nfor i = 1:n\n\tif M(i, i) == 0\n\t\ttemp = M(i,1:end);\n\t\tM(i,1:end) = M(i+1,1:end);\n\t\tM(i+1,1:end) = temp;\n\tendif\n\tM(i + 1, i + 1) -= (M(i + 1, i) / M(i, i)) * M(i, i+1);\n\tM(i + 1, n + 2) -= (M(i + 1, i) / M(i, i)) * M(i, n+2);\n\tM(i + 1, i) = 0; \nend\n\n%% PODSTAWIANIE %%\nY = M(1:end, n + 2);\nM = M(1:end, 1:n+1);\n\nU = zeros(n+1, 1);\nfor i = n-1:-1:1\n\tsum  = M(i, i + 1) * U(i + 1);\n\tsum += M(i, i + 2) * U(i + 2);\n\tU(i) = (Y(i) - sum) / M(i, i);  \nend\n\n%% RYSOWANIE WYKRESU %%\nX = ones(1, n + 1);\nfor i = 1:n+1\n\tX(i) = (i-1) * h;\nend\n\nplot(X, U)\n\nprocessingTime = time() - beginTime"},
+                             {content_type,"text/x-objcsrc"}]],
+                           [],[],[],[],[],[],[],[],[],[],[],[]}}}}],
+                      [{file,"yaws_server.erl"},{line,2964}]},
+                     {yaws_server,binary_size,2,
+                      [{file,"yaws_server.erl"},{line,2967}]},
+                     {yaws_server,binary_size,2,
+                      [{file,"yaws_server.erl"},{line,2967}]},
+                     {yaws_server,deflate_accumulated,4,
+                      [{file,"yaws_server.erl"},{line,3653}]},
+                     {yaws_server,deliver_accumulated,4,
+                      [{file,"yaws_server.erl"},{line,3607}]},
+                     {yaws_server,finish_up_dyn_file,2,
+                      [{file,"yaws_server.erl"},{line,2694}]},
+                     {yaws_server,aloop,4,
+                      [{file,"yaws_server.erl"},{line,1152}]},
+                     {yaws_server,acceptor0,2,
+                      [{file,"yaws_server.erl"},{line,1013}]}]}
+
+=ERROR REPORT==== 18-Jan-2014::16:50:37 ===
+Yaws process died: {function_clause,
+                       [{yaws_server,binary_size,
+                            [534,{error,bad_method}],
+                            [{file,"yaws_server.erl"},{line,2964}]},
+                        {yaws_server,binary_size,2,
+                            [{file,"yaws_server.erl"},{line,2967}]},
+                        {yaws_server,binary_size,2,
+                            [{file,"yaws_server.erl"},{line,2967}]},
+                        {yaws_server,deflate_accumulated,4,
+                            [{file,"yaws_server.erl"},{line,3653}]},
+                        {yaws_server,deliver_accumulated,4,
+                            [{file,"yaws_server.erl"},{line,3607}]},
+                        {yaws_server,finish_up_dyn_file,2,
+                            [{file,"yaws_server.erl"},{line,2694}]},
+                        {yaws_server,aloop,4,
+                            [{file,"yaws_server.erl"},{line,1152}]},
+                        {yaws_server,acceptor0,2,
+                            [{file,"yaws_server.erl"},{line,1013}]}]}
+
+=ERROR REPORT==== 18-Jan-2014::16:50:37 ===
+Yaws process died: {function_clause,
+                       [{yaws_server,binary_size,
+                            [534,{error,bad_method}],
+                            [{file,"yaws_server.erl"},{line,2964}]},
+                        {yaws_server,binary_size,2,
+                            [{file,"yaws_server.erl"},{line,2967}]},
+                        {yaws_server,binary_size,2,
+                            [{file,"yaws_server.erl"},{line,2967}]},
+                        {yaws_server,deflate_accumulated,4,
+                            [{file,"yaws_server.erl"},{line,3653}]},
+                        {yaws_server,deliver_accumulated,4,
+                            [{file,"yaws_server.erl"},{line,3607}]},
+                        {yaws_server,finish_up_dyn_file,2,
+                            [{file,"yaws_server.erl"},{line,2694}]},
+                        {yaws_server,aloop,4,
+                            [{file,"yaws_server.erl"},{line,1152}]},
+                        {yaws_server,acceptor0,2,
+                            [{file,"yaws_server.erl"},{line,1013}]}]}
+
+=ERROR REPORT==== 18-Jan-2014::16:50:39 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/example1/example1.yaws"
+=ERROR REPORT==== 18-Jan-2014::16:50:40 ===
+Yaws process died: {function_clause,
+                       [{yaws_server,binary_size,
+                            [534,{error,bad_method}],
+                            [{file,"yaws_server.erl"},{line,2964}]},
+                        {yaws_server,binary_size,2,
+                            [{file,"yaws_server.erl"},{line,2967}]},
+                        {yaws_server,binary_size,2,
+                            [{file,"yaws_server.erl"},{line,2967}]},
+                        {yaws_server,deflate_accumulated,4,
+                            [{file,"yaws_server.erl"},{line,3653}]},
+                        {yaws_server,deliver_accumulated,4,
+                            [{file,"yaws_server.erl"},{line,3607}]},
+                        {yaws_server,finish_up_dyn_file,2,
+                            [{file,"yaws_server.erl"},{line,2694}]},
+                        {yaws_server,aloop,4,
+                            [{file,"yaws_server.erl"},{line,1152}]},
+                        {yaws_server,acceptor0,2,
+                            [{file,"yaws_server.erl"},{line,1013}]}]}
+
+=ERROR REPORT==== 18-Jan-2014::16:50:40 ===
+Yaws process died: {function_clause,
+                       [{yaws_server,binary_size,
+                            [534,{error,bad_method}],
+                            [{file,"yaws_server.erl"},{line,2964}]},
+                        {yaws_server,binary_size,2,
+                            [{file,"yaws_server.erl"},{line,2967}]},
+                        {yaws_server,binary_size,2,
+                            [{file,"yaws_server.erl"},{line,2967}]},
+                        {yaws_server,deflate_accumulated,4,
+                            [{file,"yaws_server.erl"},{line,3653}]},
+                        {yaws_server,deliver_accumulated,4,
+                            [{file,"yaws_server.erl"},{line,3607}]},
+                        {yaws_server,finish_up_dyn_file,2,
+                            [{file,"yaws_server.erl"},{line,2694}]},
+                        {yaws_server,aloop,4,
+                            [{file,"yaws_server.erl"},{line,1152}]},
+                        {yaws_server,acceptor0,2,
+                            [{file,"yaws_server.erl"},{line,1013}]}]}
+
+=ERROR REPORT==== 18-Jan-2014::16:51:11 ===
+Yaws process died: {function_clause,
+                       [{yaws_server,binary_size,
+                            [529,{error,bad_method}],
+                            [{file,"yaws_server.erl"},{line,2964}]},
+                        {yaws_server,binary_size,2,
+                            [{file,"yaws_server.erl"},{line,2967}]},
+                        {yaws_server,binary_size,2,
+                            [{file,"yaws_server.erl"},{line,2967}]},
+                        {yaws_server,deflate_accumulated,4,
+                            [{file,"yaws_server.erl"},{line,3653}]},
+                        {yaws_server,deliver_accumulated,4,
+                            [{file,"yaws_server.erl"},{line,3607}]},
+                        {yaws_server,finish_up_dyn_file,2,
+                            [{file,"yaws_server.erl"},{line,2694}]},
+                        {yaws_server,aloop,4,
+                            [{file,"yaws_server.erl"},{line,1152}]},
+                        {yaws_server,acceptor0,2,
+                            [{file,"yaws_server.erl"},{line,1013}]}]}
+
+=ERROR REPORT==== 18-Jan-2014::16:51:11 ===
+Yaws process died: {function_clause,
+                       [{yaws_server,binary_size,
+                            [529,{error,bad_method}],
+                            [{file,"yaws_server.erl"},{line,2964}]},
+                        {yaws_server,binary_size,2,
+                            [{file,"yaws_server.erl"},{line,2967}]},
+                        {yaws_server,binary_size,2,
+                            [{file,"yaws_server.erl"},{line,2967}]},
+                        {yaws_server,deflate_accumulated,4,
+                            [{file,"yaws_server.erl"},{line,3653}]},
+                        {yaws_server,deliver_accumulated,4,
+                            [{file,"yaws_server.erl"},{line,3607}]},
+                        {yaws_server,finish_up_dyn_file,2,
+                            [{file,"yaws_server.erl"},{line,2694}]},
+                        {yaws_server,aloop,4,
+                            [{file,"yaws_server.erl"},{line,1152}]},
+                        {yaws_server,acceptor0,2,
+                            [{file,"yaws_server.erl"},{line,1013}]}]}
+
+=INFO REPORT==== 18-Jan-2014::16:54:54 ===
+yaws debug:Add path "/home/mateusz/AGH/yaws/Erlang/ebin"
+
+=INFO REPORT==== 18-Jan-2014::16:54:54 ===
+yaws debug:Add path "/usr/lib/yaws/examples/ebin"
+
+=INFO REPORT==== 18-Jan-2014::16:54:54 ===
+yaws debug:Running with id="default" (localinstall=false) 
+Running with debug checks turned on (slower server) 
+Logging to directory "/home/mateusz/AGH/yaws/Erlang/logs"
+
+=INFO REPORT==== 18-Jan-2014::16:54:54 ===
+Ctlfile : /root/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 18-Jan-2014::16:54:54 ===
+Yaws: Listening to 0.0.0.0:8080 for <1> virtual servers:
+ - http://example1:8080 under /home/mateusz/AGH/yaws/Erlang/example1
+
+=INFO REPORT==== 18-Jan-2014::16:54:54 ===
+Yaws: Listening to 0.0.0.0:2999 for <1> virtual servers:
+ - http://localhost:2999 under /home/mateusz/AGH/erlang/yaws/ruby/app/public
+
+=ERROR REPORT==== 18-Jan-2014::16:58:10 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/example2.yaws:39:
+ syntax error before: '.'
+generated file at: /root/.yaws/yaws/default/m6.erl
+
+=ERROR REPORT==== 18-Jan-2014::16:58:22 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/example2.yaws:40:
+ syntax error before: 'end'
+generated file at: /root/.yaws/yaws/default/m9.erl
+
+=ERROR REPORT==== 18-Jan-2014::16:58:33 ===
+Yaws process died: {function_clause,
+                    [{yaws_server,binary_size,
+                      [554,
+                       {done,
+                        {dict,1,16,16,8,80,48,
+                         {[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]},
+                         {{[],[],[],
+                           [["foo",
+                             {"filename","rurki.m"},
+                             {value,
+                              "beginTime = time();\n\nn = 1000;\nh = 2 / n;\n\n%% WYPELNIENIE DIAGONALI %%\nM = sparse(n+1, n+1);\nfor i = 1:n+1\n\tM(i, i) = (2 / h^2);\nend\nfor i = 1:n\n\tM(i,i+1) = (- 1 / h^2);\n\tM(i+1,i) = (- 1 / h^2);\nend\n\n%% WARUNKI POCZATKOWE %%\nM(1, 1) = -1 / h + 1;\nM(1, 2) = 1 / h;\nM(n+1, :) = [zeros(1, n), 1];\nY = ones(n + 1, 1);\nY(1:n/2) = 10;\nY(n/2+1 : n+1) = 5;\nY(n + 1) = 0;\n\n%% ELIMINACJA GAUSSA %%\n\nM = [M, Y];\nfor i = 1:n\n\tif M(i, i) == 0\n\t\ttemp = M(i,1:end);\n\t\tM(i,1:end) = M(i+1,1:end);\n\t\tM(i+1,1:end) = temp;\n\tendif\n\tM(i + 1, i + 1) -= (M(i + 1, i) / M(i, i)) * M(i, i+1);\n\tM(i + 1, n + 2) -= (M(i + 1, i) / M(i, i)) * M(i, n+2);\n\tM(i + 1, i) = 0; \nend\n\n%% PODSTAWIANIE %%\nY = M(1:end, n + 2);\nM = M(1:end, 1:n+1);\n\nU = zeros(n+1, 1);\nfor i = n-1:-1:1\n\tsum  = M(i, i + 1) * U(i + 1);\n\tsum += M(i, i + 2) * U(i + 2);\n\tU(i) = (Y(i) - sum) / M(i, i);  \nend\n\n%% RYSOWANIE WYKRESU %%\nX = ones(1, n + 1);\nfor i = 1:n+1\n\tX(i) = (i-1) * h;\nend\n\nplot(X, U)\n\nprocessingTime = time() - beginTime"},
+                             {content_type,"text/x-objcsrc"}]],
+                           [],[],[],[],[],[],[],[],[],[],[],[]}}}}],
+                      [{file,"yaws_server.erl"},{line,2964}]},
+                     {yaws_server,binary_size,2,
+                      [{file,"yaws_server.erl"},{line,2967}]},
+                     {yaws_server,binary_size,2,
+                      [{file,"yaws_server.erl"},{line,2967}]},
+                     {yaws_server,deflate_accumulated,4,
+                      [{file,"yaws_server.erl"},{line,3653}]},
+                     {yaws_server,deliver_accumulated,4,
+                      [{file,"yaws_server.erl"},{line,3607}]},
+                     {yaws_server,finish_up_dyn_file,2,
+                      [{file,"yaws_server.erl"},{line,2694}]},
+                     {yaws_server,aloop,4,
+                      [{file,"yaws_server.erl"},{line,1152}]},
+                     {yaws_server,acceptor0,2,
+                      [{file,"yaws_server.erl"},{line,1013}]}]}
+
+=ERROR REPORT==== 18-Jan-2014::16:58:33 ===
+Yaws process died: {function_clause,
+                    [{yaws_server,binary_size,
+                      [554,
+                       {done,
+                        {dict,1,16,16,8,80,48,
+                         {[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]},
+                         {{[],[],[],
+                           [["foo",
+                             {"filename","rurki.m"},
+                             {value,
+                              "beginTime = time();\n\nn = 1000;\nh = 2 / n;\n\n%% WYPELNIENIE DIAGONALI %%\nM = sparse(n+1, n+1);\nfor i = 1:n+1\n\tM(i, i) = (2 / h^2);\nend\nfor i = 1:n\n\tM(i,i+1) = (- 1 / h^2);\n\tM(i+1,i) = (- 1 / h^2);\nend\n\n%% WARUNKI POCZATKOWE %%\nM(1, 1) = -1 / h + 1;\nM(1, 2) = 1 / h;\nM(n+1, :) = [zeros(1, n), 1];\nY = ones(n + 1, 1);\nY(1:n/2) = 10;\nY(n/2+1 : n+1) = 5;\nY(n + 1) = 0;\n\n%% ELIMINACJA GAUSSA %%\n\nM = [M, Y];\nfor i = 1:n\n\tif M(i, i) == 0\n\t\ttemp = M(i,1:end);\n\t\tM(i,1:end) = M(i+1,1:end);\n\t\tM(i+1,1:end) = temp;\n\tendif\n\tM(i + 1, i + 1) -= (M(i + 1, i) / M(i, i)) * M(i, i+1);\n\tM(i + 1, n + 2) -= (M(i + 1, i) / M(i, i)) * M(i, n+2);\n\tM(i + 1, i) = 0; \nend\n\n%% PODSTAWIANIE %%\nY = M(1:end, n + 2);\nM = M(1:end, 1:n+1);\n\nU = zeros(n+1, 1);\nfor i = n-1:-1:1\n\tsum  = M(i, i + 1) * U(i + 1);\n\tsum += M(i, i + 2) * U(i + 2);\n\tU(i) = (Y(i) - sum) / M(i, i);  \nend\n\n%% RYSOWANIE WYKRESU %%\nX = ones(1, n + 1);\nfor i = 1:n+1\n\tX(i) = (i-1) * h;\nend\n\nplot(X, U)\n\nprocessingTime = time() - beginTime"},
+                             {content_type,"text/x-objcsrc"}]],
+                           [],[],[],[],[],[],[],[],[],[],[],[]}}}}],
+                      [{file,"yaws_server.erl"},{line,2964}]},
+                     {yaws_server,binary_size,2,
+                      [{file,"yaws_server.erl"},{line,2967}]},
+                     {yaws_server,binary_size,2,
+                      [{file,"yaws_server.erl"},{line,2967}]},
+                     {yaws_server,deflate_accumulated,4,
+                      [{file,"yaws_server.erl"},{line,3653}]},
+                     {yaws_server,deliver_accumulated,4,
+                      [{file,"yaws_server.erl"},{line,3607}]},
+                     {yaws_server,finish_up_dyn_file,2,
+                      [{file,"yaws_server.erl"},{line,2694}]},
+                     {yaws_server,aloop,4,
+                      [{file,"yaws_server.erl"},{line,1152}]},
+                     {yaws_server,acceptor0,2,
+                      [{file,"yaws_server.erl"},{line,1013}]}]}
+
+=ERROR REPORT==== 18-Jan-2014::16:59:57 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/example2.yaws:40:
+ syntax error before: _
+generated file at: /root/.yaws/yaws/default/m15.erl
+
+=ERROR REPORT==== 18-Jan-2014::17:00:15 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/example2.yaws:40:
+ syntax error before: _
+generated file at: /root/.yaws/yaws/default/m18.erl
+
+=ERROR REPORT==== 18-Jan-2014::17:12:56 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/example2.yaws:40:
+ syntax error before: ','
+generated file at: /root/.yaws/yaws/default/m36.erl
+
+=ERROR REPORT==== 18-Jan-2014::17:13:01 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/example2.yaws:40:
+ syntax error before: ','
+generated file at: /root/.yaws/yaws/default/m39.erl
+
+=ERROR REPORT==== 18-Jan-2014::17:16:32 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/example2.yaws:43:
+ syntax error before: 'end'
+generated file at: /root/.yaws/yaws/default/m48.erl
+
+=ERROR REPORT==== 18-Jan-2014::17:25:50 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/example2.yaws:41:
+ syntax error before: 'end'
+generated file at: /root/.yaws/yaws/default/m55.erl
+
+=ERROR REPORT==== 18-Jan-2014::17:26:23 ===
+Yaws process died: {function_clause,
+                    [{yaws_server,binary_size,
+                      [554,
+                       {dict,1,16,16,8,80,48,
+                        {[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]},
+                        {{[],[],[],
+                          [["foo",
+                            {"filename","rurki.m"},
+                            {value,
+                             "beginTime = time();\n\nn = 1000;\nh = 2 / n;\n\n%% WYPELNIENIE DIAGONALI %%\nM = sparse(n+1, n+1);\nfor i = 1:n+1\n\tM(i, i) = (2 / h^2);\nend\nfor i = 1:n\n\tM(i,i+1) = (- 1 / h^2);\n\tM(i+1,i) = (- 1 / h^2);\nend\n\n%% WARUNKI POCZATKOWE %%\nM(1, 1) = -1 / h + 1;\nM(1, 2) = 1 / h;\nM(n+1, :) = [zeros(1, n), 1];\nY = ones(n + 1, 1);\nY(1:n/2) = 10;\nY(n/2+1 : n+1) = 5;\nY(n + 1) = 0;\n\n%% ELIMINACJA GAUSSA %%\n\nM = [M, Y];\nfor i = 1:n\n\tif M(i, i) == 0\n\t\ttemp = M(i,1:end);\n\t\tM(i,1:end) = M(i+1,1:end);\n\t\tM(i+1,1:end) = temp;\n\tendif\n\tM(i + 1, i + 1) -= (M(i + 1, i) / M(i, i)) * M(i, i+1);\n\tM(i + 1, n + 2) -= (M(i + 1, i) / M(i, i)) * M(i, n+2);\n\tM(i + 1, i) = 0; \nend\n\n%% PODSTAWIANIE %%\nY = M(1:end, n + 2);\nM = M(1:end, 1:n+1);\n\nU = zeros(n+1, 1);\nfor i = n-1:-1:1\n\tsum  = M(i, i + 1) * U(i + 1);\n\tsum += M(i, i + 2) * U(i + 2);\n\tU(i) = (Y(i) - sum) / M(i, i);  \nend\n\n%% RYSOWANIE WYKRESU %%\nX = ones(1, n + 1);\nfor i = 1:n+1\n\tX(i) = (i-1) * h;\nend\n\nplot(X, U)\n\nprocessingTime = time() - beginTime"},
+                            {content_type,"text/x-objcsrc"}]],
+                          [],[],[],[],[],[],[],[],[],[],[],[]}}}],
+                      [{file,"yaws_server.erl"},{line,2964}]},
+                     {yaws_server,binary_size,2,
+                      [{file,"yaws_server.erl"},{line,2967}]},
+                     {yaws_server,binary_size,2,
+                      [{file,"yaws_server.erl"},{line,2967}]},
+                     {yaws_server,deflate_accumulated,4,
+                      [{file,"yaws_server.erl"},{line,3653}]},
+                     {yaws_server,deliver_accumulated,4,
+                      [{file,"yaws_server.erl"},{line,3607}]},
+                     {yaws_server,finish_up_dyn_file,2,
+                      [{file,"yaws_server.erl"},{line,2694}]},
+                     {yaws_server,aloop,4,
+                      [{file,"yaws_server.erl"},{line,1152}]},
+                     {yaws_server,acceptor0,2,
+                      [{file,"yaws_server.erl"},{line,1013}]}]}
+
+=ERROR REPORT==== 18-Jan-2014::17:26:23 ===
+Yaws process died: {function_clause,
+                    [{yaws_server,binary_size,
+                      [554,
+                       {dict,1,16,16,8,80,48,
+                        {[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]},
+                        {{[],[],[],
+                          [["foo",
+                            {"filename","rurki.m"},
+                            {value,
+                             "beginTime = time();\n\nn = 1000;\nh = 2 / n;\n\n%% WYPELNIENIE DIAGONALI %%\nM = sparse(n+1, n+1);\nfor i = 1:n+1\n\tM(i, i) = (2 / h^2);\nend\nfor i = 1:n\n\tM(i,i+1) = (- 1 / h^2);\n\tM(i+1,i) = (- 1 / h^2);\nend\n\n%% WARUNKI POCZATKOWE %%\nM(1, 1) = -1 / h + 1;\nM(1, 2) = 1 / h;\nM(n+1, :) = [zeros(1, n), 1];\nY = ones(n + 1, 1);\nY(1:n/2) = 10;\nY(n/2+1 : n+1) = 5;\nY(n + 1) = 0;\n\n%% ELIMINACJA GAUSSA %%\n\nM = [M, Y];\nfor i = 1:n\n\tif M(i, i) == 0\n\t\ttemp = M(i,1:end);\n\t\tM(i,1:end) = M(i+1,1:end);\n\t\tM(i+1,1:end) = temp;\n\tendif\n\tM(i + 1, i + 1) -= (M(i + 1, i) / M(i, i)) * M(i, i+1);\n\tM(i + 1, n + 2) -= (M(i + 1, i) / M(i, i)) * M(i, n+2);\n\tM(i + 1, i) = 0; \nend\n\n%% PODSTAWIANIE %%\nY = M(1:end, n + 2);\nM = M(1:end, 1:n+1);\n\nU = zeros(n+1, 1);\nfor i = n-1:-1:1\n\tsum  = M(i, i + 1) * U(i + 1);\n\tsum += M(i, i + 2) * U(i + 2);\n\tU(i) = (Y(i) - sum) / M(i, i);  \nend\n\n%% RYSOWANIE WYKRESU %%\nX = ones(1, n + 1);\nfor i = 1:n+1\n\tX(i) = (i-1) * h;\nend\n\nplot(X, U)\n\nprocessingTime = time() - beginTime"},
+                            {content_type,"text/x-objcsrc"}]],
+                          [],[],[],[],[],[],[],[],[],[],[],[]}}}],
+                      [{file,"yaws_server.erl"},{line,2964}]},
+                     {yaws_server,binary_size,2,
+                      [{file,"yaws_server.erl"},{line,2967}]},
+                     {yaws_server,binary_size,2,
+                      [{file,"yaws_server.erl"},{line,2967}]},
+                     {yaws_server,deflate_accumulated,4,
+                      [{file,"yaws_server.erl"},{line,3653}]},
+                     {yaws_server,deliver_accumulated,4,
+                      [{file,"yaws_server.erl"},{line,3607}]},
+                     {yaws_server,finish_up_dyn_file,2,
+                      [{file,"yaws_server.erl"},{line,2694}]},
+                     {yaws_server,aloop,4,
+                      [{file,"yaws_server.erl"},{line,1152}]},
+                     {yaws_server,acceptor0,2,
+                      [{file,"yaws_server.erl"},{line,1013}]}]}
+
+=INFO REPORT==== 18-Jan-2014::17:37:04 ===
+yaws debug:Add path "/home/mateusz/AGH/yaws/Erlang/ebin"
+
+=INFO REPORT==== 18-Jan-2014::17:37:04 ===
+yaws debug:Add path "/usr/lib/yaws/examples/ebin"
+
+=INFO REPORT==== 18-Jan-2014::17:37:04 ===
+yaws debug:Running with id="default" (localinstall=false) 
+Running with debug checks turned on (slower server) 
+Logging to directory "/home/mateusz/AGH/yaws/Erlang/logs"
+
+=INFO REPORT==== 18-Jan-2014::17:37:04 ===
+Ctlfile : /root/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 18-Jan-2014::17:37:04 ===
+Yaws: Listening to 0.0.0.0:8080 for <1> virtual servers:
+ - http://example1:8080 under /home/mateusz/AGH/yaws/Erlang/example1
+
+=INFO REPORT==== 18-Jan-2014::17:37:04 ===
+Yaws: Listening to 0.0.0.0:2999 for <1> virtual servers:
+ - http://localhost:2999 under /home/mateusz/AGH/erlang/yaws/ruby/app/public
+
+=ERROR REPORT==== 18-Jan-2014::17:41:12 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/example2.yaws:45:
+ syntax error before: ':'
+generated file at: /root/.yaws/yaws/default/m9.erl
+
+=ERROR REPORT==== 18-Jan-2014::17:42:21 ===
+get_client_data: {error,closed}
+
+=ERROR REPORT==== 18-Jan-2014::17:48:24 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/example1/example1.yaws"
+=ERROR REPORT==== 18-Jan-2014::17:49:21 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/example1/example1.yaws"
+=ERROR REPORT==== 18-Jan-2014::17:49:24 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/example1/example1.yaws"
+=ERROR REPORT==== 18-Jan-2014::17:50:51 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/example1/example1.yaws"
+=ERROR REPORT==== 18-Jan-2014::17:51:52 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/example2.yaws:40:
+ syntax error before: '->'
+generated file at: /root/.yaws/yaws/default/m31.erl
+
+=ERROR REPORT==== 18-Jan-2014::17:52:04 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/example2.yaws:42:
+ syntax error before: Other
+generated file at: /root/.yaws/yaws/default/m34.erl
+
+=ERROR REPORT==== 18-Jan-2014::17:52:56 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/example2.yaws:39:
+ syntax error before: ';'
+generated file at: /root/.yaws/yaws/default/m40.erl
+
+=ERROR REPORT==== 18-Jan-2014::17:54:41 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/example2.yaws:40:
+ syntax error before: '}'
+generated file at: /root/.yaws/yaws/default/m46.erl
+
+=ERROR REPORT==== 18-Jan-2014::17:56:17 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/example2.yaws:42:
+ unterminated string starting with ", [Reason]);\n\t\tO"
+generated file at: /root/.yaws/yaws/default/m52.erl
+
+=ERROR REPORT==== 18-Jan-2014::17:56:22 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/example2.yaws:42:
+ unterminated string starting with ", [Reason]);\n\t\tO"
+generated file at: /root/.yaws/yaws/default/m55.erl
+
+=ERROR REPORT==== 18-Jan-2014::18:04:04 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/example2.yaws:45:
+ syntax error before: '{'
+generated file at: /root/.yaws/yaws/default/m88.erl
+
+=ERROR REPORT==== 18-Jan-2014::18:04:09 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/example2.yaws:45:
+ syntax error before: '{'
+generated file at: /root/.yaws/yaws/default/m91.erl
+
+=ERROR REPORT==== 18-Jan-2014::18:07:06 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/example1/example2.yaws:43:
+ syntax error before: '}'
+generated file at: /root/.yaws/yaws/default/m106.erl
+
+=ERROR REPORT==== 18-Jan-2014::18:07:31 ===
+get_client_data: {error,closed}
+
+=ERROR REPORT==== 18-Jan-2014::18:09:38 ===
+get_client_data: {error,closed}
+
+=INFO REPORT==== 18-Jan-2014::20:13:38 ===
+yaws debug:Add path "/home/mateusz/AGH/yaws/Erlang/ebin"
+
+=INFO REPORT==== 18-Jan-2014::20:13:38 ===
+yaws debug:Add path "/usr/lib/yaws/examples/ebin"
+
+=INFO REPORT==== 18-Jan-2014::20:13:38 ===
+yaws debug:Running with id="default" (localinstall=false) 
+Running with debug checks turned on (slower server) 
+Logging to directory "/home/mateusz/AGH/yaws/Erlang/logs"
+
+=INFO REPORT==== 18-Jan-2014::20:13:38 ===
+Ctlfile : /root/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 18-Jan-2014::20:13:38 ===
+Yaws: Listening to 0.0.0.0:8080 for <1> virtual servers:
+ - http://example1:8080 under /home/mateusz/AGH/yaws/Erlang/example1
+
+=INFO REPORT==== 18-Jan-2014::20:13:38 ===
+Yaws: Listening to 0.0.0.0:2999 for <1> virtual servers:
+ - http://localhost:2999 under /home/mateusz/AGH/erlang/yaws/ruby/app/public
+
+=ERROR REPORT==== 18-Jan-2014::20:13:44 ===
+Yaws process died: {function_clause,
+                       [{yaws_server,binary_size,
+                            [233,{p,[],"File not yet uploaded"}],
+                            [{file,"yaws_server.erl"},{line,2964}]},
+                        {yaws_server,binary_size,2,
+                            [{file,"yaws_server.erl"},{line,2967}]},
+                        {yaws_server,binary_size,2,
+                            [{file,"yaws_server.erl"},{line,2967}]},
+                        {yaws_server,deflate_accumulated,4,
+                            [{file,"yaws_server.erl"},{line,3653}]},
+                        {yaws_server,deliver_accumulated,4,
+                            [{file,"yaws_server.erl"},{line,3607}]},
+                        {yaws_server,finish_up_dyn_file,2,
+                            [{file,"yaws_server.erl"},{line,2694}]},
+                        {yaws_server,aloop,4,
+                            [{file,"yaws_server.erl"},{line,1152}]},
+                        {yaws_server,acceptor0,2,
+                            [{file,"yaws_server.erl"},{line,1013}]}]}
+
+=ERROR REPORT==== 18-Jan-2014::20:13:44 ===
+Yaws process died: {function_clause,
+                       [{yaws_server,binary_size,
+                            [233,{p,[],"File not yet uploaded"}],
+                            [{file,"yaws_server.erl"},{line,2964}]},
+                        {yaws_server,binary_size,2,
+                            [{file,"yaws_server.erl"},{line,2967}]},
+                        {yaws_server,binary_size,2,
+                            [{file,"yaws_server.erl"},{line,2967}]},
+                        {yaws_server,deflate_accumulated,4,
+                            [{file,"yaws_server.erl"},{line,3653}]},
+                        {yaws_server,deliver_accumulated,4,
+                            [{file,"yaws_server.erl"},{line,3607}]},
+                        {yaws_server,finish_up_dyn_file,2,
+                            [{file,"yaws_server.erl"},{line,2694}]},
+                        {yaws_server,aloop,4,
+                            [{file,"yaws_server.erl"},{line,1152}]},
+                        {yaws_server,acceptor0,2,
+                            [{file,"yaws_server.erl"},{line,1013}]}]}
+
+=INFO REPORT==== 18-Jan-2014::20:26:17 ===
+yaws debug:Add path "/home/mateusz/AGH/yaws/Erlang/ebin"
+
+=INFO REPORT==== 18-Jan-2014::20:26:17 ===
+yaws debug:Add path "/usr/lib/yaws/examples/ebin"
+
+=INFO REPORT==== 18-Jan-2014::20:26:17 ===
+yaws debug:Running with id="default" (localinstall=false) 
+Running with debug checks turned on (slower server) 
+Logging to directory "/home/mateusz/AGH/yaws/Erlang/logs"
+
+=INFO REPORT==== 18-Jan-2014::20:26:17 ===
+Ctlfile : /home/mateusz/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 18-Jan-2014::20:26:17 ===
+Yaws: Listening to 0.0.0.0:8080 for <1> virtual servers:
+ - http://localhost:8080 under /home/mateusz/AGH/yaws/Erlang/pages
+
+=INFO REPORT==== 18-Jan-2014::20:26:17 ===
+Yaws: Listening to 0.0.0.0:2999 for <1> virtual servers:
+ - http://localhost:2999 under /home/mateusz/AGH/erlang/yaws/ruby/app/public
+
+=ERROR REPORT==== 18-Jan-2014::20:26:28 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/pages/example1.yaws"
+=ERROR REPORT==== 18-Jan-2014::20:26:45 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/pages/example1.yaws"
+=INFO REPORT==== 19-Jan-2014::22:03:17 ===
+yaws debug:Add path "/home/mateusz/AGH/yaws/Erlang/ebin"
+
+=INFO REPORT==== 19-Jan-2014::22:03:17 ===
+yaws debug:Add path "/usr/lib/yaws/examples/ebin"
+
+=INFO REPORT==== 19-Jan-2014::22:03:17 ===
+yaws debug:Running with id="default" (localinstall=false) 
+Running with debug checks turned on (slower server) 
+Logging to directory "/home/mateusz/AGH/yaws/Erlang/logs"
+
+=INFO REPORT==== 19-Jan-2014::22:03:17 ===
+Ctlfile : /home/mateusz/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 19-Jan-2014::22:03:17 ===
+Yaws: Listening to 0.0.0.0:8080 for <1> virtual servers:
+ - http://localhost:8080 under /home/mateusz/AGH/yaws/Erlang/pages
+
+=INFO REPORT==== 19-Jan-2014::22:03:17 ===
+Yaws: Listening to 0.0.0.0:2999 for <1> virtual servers:
+ - http://localhost:2999 under /home/mateusz/AGH/erlang/yaws/ruby/app/public
+
+=ERROR REPORT==== 19-Jan-2014::22:03:23 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/pages/example4.yaws"
+=ERROR REPORT==== 19-Jan-2014::22:05:05 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/pages/example4.yaws"
+=ERROR REPORT==== 19-Jan-2014::22:31:52 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/pages/example4.yaws:18:
+ function pr/0 undefined
+generated file at: /home/mateusz/.yaws/yaws/default/m16.erl
+
+=ERROR REPORT==== 19-Jan-2014::22:31:52 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/pages/example4.yaws:21:
+ function out/1 undefined
+generated file at: /home/mateusz/.yaws/yaws/default/m17.erl
+
+=ERROR REPORT==== 19-Jan-2014::22:32:02 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/pages/example4.yaws:5:
+ function out/1 undefined
+generated file at: /home/mateusz/.yaws/yaws/default/m18.erl
+
+=ERROR REPORT==== 19-Jan-2014::22:32:02 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/pages/example4.yaws:23:
+ function pr/0 undefined
+generated file at: /home/mateusz/.yaws/yaws/default/m19.erl
+
+=ERROR REPORT==== 19-Jan-2014::22:37:22 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/pages/example4.yaws:20:
+ function listOfFactorials/2 undefined
+generated file at: /home/mateusz/.yaws/yaws/default/m21.erl
+
+=ERROR REPORT==== 19-Jan-2014::22:50:04 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/pages/example4.yaws:20:
+ function listOfFactorials/2 undefined
+generated file at: /home/mateusz/.yaws/yaws/default/m22.erl
+
+=ERROR REPORT==== 19-Jan-2014::22:50:06 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/pages/example4.yaws:20:
+ function listOfFactorials/2 undefined
+generated file at: /home/mateusz/.yaws/yaws/default/m23.erl
+
+=ERROR REPORT==== 19-Jan-2014::22:50:09 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/pages/example4.yaws:20:
+ function listOfFactorials/2 undefined
+generated file at: /home/mateusz/.yaws/yaws/default/m24.erl
+
+=ERROR REPORT==== 19-Jan-2014::22:53:07 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/pages/example4.yaws:31:
+ syntax error before: 
+generated file at: /home/mateusz/.yaws/yaws/default/m29.erl
+
+=ERROR REPORT==== 19-Jan-2014::22:53:09 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/pages/example4.yaws:31:
+ syntax error before: 
+generated file at: /home/mateusz/.yaws/yaws/default/m30.erl
+
+=ERROR REPORT==== 19-Jan-2014::22:56:27 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/pages/example4.yaws:29:
+ syntax error before: ';'
+generated file at: /home/mateusz/.yaws/yaws/default/m38.erl
+
+=ERROR REPORT==== 19-Jan-2014::22:56:47 ===
+Dynamic compiler err /home/mateusz/AGH/yaws/Erlang/pages/example4.yaws:29:
+ variable '_' is unbound
+generated file at: /home/mateusz/.yaws/yaws/default/m39.erl
+
+=ERROR REPORT==== 19-Jan-2014::23:31:23 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/pages/example1.yaws"
+=ERROR REPORT==== 19-Jan-2014::23:31:41 ===
+ERROR: Can't parse post body for 'GET' requests: URL: "/home/mateusz/AGH/yaws/Erlang/pages/example4.yaws"

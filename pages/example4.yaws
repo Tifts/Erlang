@@ -1,0 +1,35 @@
+<html>
+
+<h1> Example 4 </h1>
+<a href="index.yaws">Back to index</a>
+
+<form action="example4.yaws" method="post">
+	<p>Number:</p>
+	<input name="number" type="text">
+	<input type="submit">
+</form>
+
+
+
+<erl>
+out(A) ->
+	case yaws_api:parse_post(A) of
+		[{"number", Number} | _ ] ->
+			{Num, _} = string:to_integer(Number),
+			{ehtml, [
+				{ul, [], listOfFactorials(pfactorial:start(Num, 4))}
+			]};
+		_ ->
+			{ehtml, [
+				{p, [], "Number not posted"}
+			]}
+	end.
+
+
+listOfFactorials([]) -> [];
+listOfFactorials([H | T]) ->
+	[{li, [], io_lib:format("~p", [H])} | listOfFactorials(T)].
+</erl>
+
+
+

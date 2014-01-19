@@ -1,0 +1,29 @@
+<html>
+
+<h1> Example 3 </h1>
+<a href="index.yaws">Back to index</a>
+
+<h2>Upload file:</h2>
+<form enctype="multipart/form-data" method="post">
+	<input type="submit" value="Upload">
+	<input type="file" width="50" name="file">
+</form>
+
+<erl>
+out(Arg) ->
+	Options = [no_temp_file],
+	case yaws_multipart:read_multipart_form(Arg, Options) of
+		{done, Params} ->
+			{ok, [{"filename", FileName}, {value, Value} | _]} = dict:find("file", Params),
+			{ehtml, 
+				[{h4, [], "File name:  " ++ FileName},
+				 {p,  [], Value}
+				]
+			};
+		{error, Reason} ->
+			{ehtml, {p, [], "File not yet uploaded"}};
+		Other -> Other
+	end.
+</erl>
+
+</html>
