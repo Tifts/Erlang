@@ -67,6 +67,54 @@
             ]
         },
         {
+            "GEInspira": [
+                {
+                    "weight": "normal",
+                    "style": "normal",
+                    "file": "GEInspira-Regular.keg"
+                },
+                {
+                    "weight": "bold",
+                    "style": "normal",
+                    "file": "GEInspira-Bold.keg"
+                },
+                {
+                    "weight": "normal",
+                    "style": "italic",
+                    "file": "GEInspira-Italic.keg"
+                },
+                {
+                    "weight": "bold",
+                    "style": "italic",
+                    "file": "GEInspira-BoldItalic.keg"
+                }
+            ]
+        },  
+        {
+            "GillSansMT": [
+                {
+                    "weight": "normal",
+                    "style": "normal",
+                    "file": "GillSansMT-Regular.keg"
+                },
+                {
+                    "weight": "bold",
+                    "style": "normal",
+                    "file": "GillSansMT-Bold.keg"
+                },
+                {
+                    "weight": "normal",
+                    "style": "italic",
+                    "file": "GillSansMT-Italic.keg"
+                },
+                {
+                    "weight": "bold",
+                    "style": "italic",
+                    "file": "GillSansMT-BoldItalic.keg"
+                }
+            ]
+        },               
+        {
             "MoseoSans500": [
                 {
                     "weight": "normal",
@@ -553,6 +601,78 @@
                     "weight": "bold",
                     "style": "italic",
                     "file": "CrimsonText-BI.keg"
+                }
+            ]
+        },
+        {
+            "Cambria": [
+                {
+                    "weight": "normal",
+                    "style": "normal",
+                    "file": "Cambria-Regular.keg"
+                },
+                {
+                    "weight": "normal",
+                    "style": "italic",
+                    "file": "Cambria-Italic.keg"
+                },
+                                {
+                    "weight": "bold",
+                    "style": "normal",
+                    "file": "Cambria-Bold.keg"
+                },
+                                {
+                    "weight": "bold",
+                    "style": "italic",
+                    "file": "Cambria-BoldItalic.keg"
+                }
+            ]
+        },
+        {
+            "ArnoPro": [
+                {
+                    "weight": "normal",
+                    "style": "normal",
+                    "file": "ArnoPro-Regular.keg"
+                },
+                {
+                    "weight": "normal",
+                    "style": "italic",
+                    "file": "ArnoPro-Italic.keg"
+                },
+                                {
+                    "weight": "bold",
+                    "style": "normal",
+                    "file": "ArnoPro-Bold.keg"
+                },
+                                {
+                    "weight": "bold",
+                    "style": "italic",
+                    "file": "ArnoPro-BoldItalic.keg"
+                }
+            ]
+        },
+        {
+            "MyriadProCond": [
+                {
+                    "weight": "normal",
+                    "style": "normal",
+                    "file": "MyriadProCond-Regular.keg"
+                },
+                {
+                    "weight": "normal",
+                    "style": "italic",
+                    "file": "MyriadProCond-Italic.keg"
+                },
+                                {
+                    "weight": "bold",
+                    "style": "normal",
+                    "file": "MyriadProCond-Bold.keg"
+                },
+                                {
+                    "weight": "bold",
+                    "style": "italic",
+                    "file": "MyriadProCond-BoldItalic.keg"
                 }
             ]
         },

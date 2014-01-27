@@ -9,18 +9,18 @@
         
       </autoplay>
       
-      <bounds x="-23388.987881250516" y="-13144.450843388177" width="46777.97576250103" height="26365.27774302076"/>
+      <bounds x="-167577.55003564758" y="-94451.04406861965" width="335155.10007129516" height="188902.08813723933"/>
       <aspectratio>off</aspectratio>
       <languages>
         <language>en</language>
       </languages>
       <mode type="normal"/>
     </settings>
-    <object id="5" type="image" x="7188.249999999999" y="-1941.8999999999999" r="0" s="4.66867518083624">
+    <object id="5" type="image" x="51502.41345027962" y="-14186.945681118294" r="0" s="33.45014981789546">
       <source w="800" h="60">1212880188<url>1212880188.gif</url></source>
       <sourceUrl>http://hyber.org/icons/yaws_head.gif</sourceUrl>
     <resource><id>1212880188</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/9/d/1/defa6ce28d3c918b9003f485760128b78a517.gif</url></resource></object>
-    <object id="1_24309637" type="button" x="-1.2374640569026049e-12" y="0" r="0" s="39.10874990594518" class="invisible">
+    <object id="1_24309637" type="button" x="-8.866189335159228e-12" y="-273.6097955970582" r="0" s="280.2065881375263" class="invisible">
       <type>invisible</type>
       <size>
         <w>1197.448853773701</w>
@@ -34,7 +34,7 @@
         <frametype value="OVERVIEW"/>
       </layout>
     </object>
-    <object id="0_24309637" type="button" x="-10381.06722417367" y="1370.8652128046647" r="0" s="10.586696893723685" class="roundrect">
+    <object id="0_24309637" type="button" x="-74378.3279984056" y="9548.372880919676" r="0" s="75.85162459476899" class="roundrect">
       <type>roundrect</type>
       <size>
         <w>806</w>
@@ -48,7 +48,7 @@
         <frametype value="SECTION"/>
       </layout>
     </object>
-    <object id="3_24309637" type="button" x="7188.171303330232" y="-1333.1431281722691" r="0" s="5.214352723952699" class="roundrect">
+    <object id="3_24309637" type="button" x="51501.849603943796" y="-9825.3210710156" r="0" s="37.359823303947934" class="roundrect">
       <type>roundrect</type>
       <size>
         <w>806</w>
@@ -62,7 +62,7 @@
         <frametype value="SECTION"/>
       </layout>
     </object>
-    <object id="7_24309637" type="button" x="-3265.254142404088" y="-2529.810418066535" r="0" s="3.280573147900437" class="roundrect">
+    <object id="7_24309637" type="button" x="-23394.91098143965" y="-18399.209503744027" r="0" s="23.504668676945524" class="roundrect">
       <type>roundrect</type>
       <size>
         <w>792.1</w>
@@ -76,7 +76,7 @@
         <frametype value="SECTION"/>
       </layout>
     </object>
-    <object id="2_24309637" type="shape" x="573.7110711668113" y="2399.1420714637575" r="-15.000000000000039" s="15.587690579119586" class="line3">
+    <object id="2_24309637" type="shape" x="4110.528263240137" y="16915.776618410073" r="-15.000000000000039" s="111.68277187644358" class="line3">
       <geom type="arrow">
         <sp>-382.22323839537626 -31.23995224402346</sp>
         <ep>382.22323839537626 -31.23995224402346</ep>
@@ -88,7 +88,7 @@
         <parentTemplate>off-the-map-locked</parentTemplate>
       </meta>
     </object>
-    <object id="4_24309637" type="shape" x="632.784479684235" y="-176.52098990225875" r="-164.99999999999997" s="11.134064699371125" class="line3">
+    <object id="4_24309637" type="shape" x="4533.777748077424" y="-1538.3483626472812" r="-164.99999999999997" s="79.77340848317392" class="line3">
       <geom type="arrow">
         <sp>-311.5225667788139 27.700035376214505</sp>
         <ep>311.5225667788139 27.700035376214505</ep>
@@ -100,7 +100,7 @@
         <parentTemplate>off-the-map-locked</parentTemplate>
       </meta>
     </object>
-    <object id="5_24309637" type="shape" x="274.57640063010007" y="-1794.4582694389833" r="-20.58592795519427" s="6.456011067524971" class="line3">
+    <object id="5_24309637" type="shape" x="1967.2865174334552" y="-13130.554352606037" r="-20.58592795519427" s="46.256063887490306" class="line3">
       <geom type="arrow">
         <sp>-271.8581190684153 -29.972166581770168</sp>
         <ep>271.8581190684153 -29.972166581770168</ep>
@@ -112,7 +112,7 @@
         <parentTemplate>off-the-map-locked</parentTemplate>
       </meta>
     </object>
-    <object id="63_24309637" type="button" x="2227.916291753843" y="-3160.2129674883504" r="0" s="1.6441332933027286" class="roundrect">
+    <object id="63_24309637" type="button" x="15962.586998298644" y="-22915.9211846723" r="0" s="11.7798953346151" class="roundrect">
       <type>roundrect</type>
       <size>
         <w>792.1</w>
@@ -126,14 +126,14 @@
         <frametype value="SECTION"/>
       </layout>
     </object>
-    <object id="49_24309637" type="text" x="-3.7752484799657395" y="7884.369099888287" r="0" s="121.91433034568945" class="head">
+    <object id="49_24309637" type="text" x="-27.048921238512182" y="56216.361640712974" r="0" s="873.4924699304656" class="head">
       <height>31.9921875</height>
       <width>358.94654078371684</width>
       <p align="center">
         <text><![CDATA[YAWS]]></text>
       </p>
     </object>
-    <object id="9_24309637" type="text" x="7188.004955058779" y="-2210.4144697730317" r="0" s="7.862902227727689" class="strong">
+    <object id="9_24309637" type="text" x="51500.657750926286" y="-16110.799642740842" r="0" s="56.33616547164556" class="strong">
       <height>31.9921875</height>
       <width>409.346143553921</width>
       <p align="center">
@@ -143,11 +143,11 @@
         <layout-element role="title" parent-id="3_24309637"/>
       </layout>
     </object>
-    <object id="6" type="image" x="8287.65" y="-585.6000000000001" r="0" s="3.0009254933773697">
+    <object id="6" type="image" x="59379.40066514241" y="-4469.319922051169" r="0" s="21.501047611505676">
       <source w="250" h="213">1212887543<url>1212887543.png</url></source>
       <sourceUrl>http://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Erlang_logo.png/250px-Erlang_logo.png</sourceUrl>
     <resource><id>1212887543</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/a/9/5/f44099b1fe61acd720c96a227844a0be21a65.png</url></resource></object>
-    <object id="14_24309637" type="text" x="7284.074949012115" y="-1331.1868311458225" r="0" s="5.055700063889084" class="body">
+    <object id="14_24309637" type="text" x="52188.98057619677" y="-9811.30458323518" r="0" s="36.22310784558422" class="body">
       <height>146.4</height>
       <width>642.4221214502834</width>
       <p>
@@ -163,7 +163,7 @@
         <layout-element role="body" parent-id="3_24309637"/>
       </layout>
     </object>
-    <object id="15_24309637" type="text" x="-3265.3570077034165" y="-3072.291433091183" r="0" s="4.862207368764655" class="strong">
+    <object id="15_24309637" type="text" x="-23395.647991306545" y="-22285.98048760335" r="0" s="34.83677031087031" class="strong">
       <height>31.9921875</height>
       <width>409.346143553921</width>
       <p align="center">
@@ -173,11 +173,11 @@
         <layout-element role="title" parent-id="7_24309637"/>
       </layout>
     </object>
-    <object id="8" type="image" x="-2740.25" y="-2169.2" r="0" s="1.5436591694488417">
+    <object id="8" type="image" x="-19633.35839142055" y="-15815.505981225906" r="0" s="11.060017775017494">
       <source w="256" h="256">1212939158<url>1212939158.png</url></source>
       <sourceUrl>http://en.xn--icne-wqa.com/images/icones/2/4/distributions-bsd.png</sourceUrl>
     <resource><id>1212939158</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/5/9/a/694ecf34914cef08febbf5f5099a69147d06a.png</url></resource></object>
-    <object id="16_24309637" type="text" x="-3228.4500000000003" y="-2591.3046072737893" r="0" s="3.1263090132572313" class="body">
+    <object id="16_24309637" type="text" x="-23131.216457907736" y="-18839.803411488156" r="0" s="22.3993961498431" class="body">
       <height>204.96</height>
       <width>642.4221214502834</width>
       <p>
@@ -199,7 +199,7 @@
         <layout-element role="body" parent-id="7_24309637"/>
       </layout>
     </object>
-    <object id="17_24309637" type="text" x="2227.86473848686" y="-3432.08957489078" r="0" s="2.4368049891050445" class="strong">
+    <object id="17_24309637" type="text" x="15962.217629165565" y="-24863.86420862101" r="0" s="17.459233895119418" class="strong">
       <height>31.9921875</height>
       <width>409.346143553921</width>
       <p align="center">
@@ -209,7 +209,7 @@
         <layout-element role="title" parent-id="63_24309637"/>
       </layout>
     </object>
-    <object id="18_24309637" type="text" x="2234.6639083403547" y="-3294.044781166567" r="0" s="1.5668203396526164" class="body">
+    <object id="18_24309637" type="text" x="16010.932359025177" y="-23874.800105251903" r="0" s="11.225963055694585" class="body">
       <height>58.56</height>
       <width>642.4221214502834</width>
       <p>
@@ -219,7 +219,7 @@
         <layout-element role="body" parent-id="63_24309637"/>
       </layout>
     </object>
-    <object id="7_4" type="text" x="-10381.404960959411" y="-410.258213007111" r="0" s="15.964045203071088" class="strong">
+    <object id="7_4" type="text" x="-74380.74781680043" y="-3213.030114543272" r="0" s="114.37927957256917" class="strong">
       <height>31.9921875</height>
       <width>409.346143553921</width>
       <p align="center">
@@ -229,7 +229,7 @@
         <layout-element role="title" parent-id="0_24309637"/>
       </layout>
     </object>
-    <object id="24_4" type="text" x="-10380.755277447164" y="1035.9151278455533" r="0" s="10.264584502714726" class="body">
+    <object id="24_4" type="text" x="-74376.09296077015" y="7148.52065530559" r="0" s="73.54375194993868" class="body">
       <height>87.84</height>
       <width>642.4221214502834</width>
       <p>
@@ -239,14 +239,14 @@
         <layout-element role="body" parent-id="0_24309637"/>
       </layout>
     </object>
-    <object id="0" type="text" x="-2.7499999999990905" y="11276" r="0" s="64" class="strong">
+    <object id="0" type="text" x="-19.70321524546616" y="80516.73751638473" r="0" s="458.5475548037278" class="strong">
       <height>31.9921875</height>
       <width>-258.140625</width>
       <p>
         <text><![CDATA[Yet Another Web Server]]></text>
       </p>
     </object>
-    <object id="1" type="text" x="20464.225353374793" y="12163.047912626209" r="0" s="36.12633152344175" class="body">
+    <object id="1" type="text" x="146622.195261601" y="86872.26331839252" r="0" s="258.83814037661006" class="body">
       <height>58.56</height>
       <width>-160.2</width>
       <p>
@@ -256,33 +256,33 @@
         <text><![CDATA[Mateusz Ziebura]]></text>
       </p>
     </object>
-    <object id="2" type="image" x="-12344.2" y="2573.3" r="0" s="3.2795417253583303">
+    <object id="2" type="image" x="-88443.79259387776" y="18163.584310284703" r="0" s="23.497278734997828">
       <source w="700" h="554">1212839813<url>1212839813.jpe</url></source>
       <sourceUrl>http://www.bvgh.org/Portals/0/disease_pics/Yaws%20pic.jpg</sourceUrl>
     <resource><id>1212839813</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/6/2/9/37fc7d0c9f4a2dd735518fde003c937ffc3b0.jpe</url></resource></object>
-    <object id="3" type="image" x="-8265.95" y="2573.3" r="0" s="1.455822208211951">
+    <object id="3" type="image" x="-59223.92438484178" y="18163.584310284703" r="0" s="10.43068302819615">
       <source w="1140" h="1248">1212840298<url>1212840298.jpe</url></source>
       <sourceUrl>http://medicallywiseinfo.com/wp-content/uploads/2010/02/Yaws0.jpg</sourceUrl>
     <resource><id>1212840298</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/2/6/2/4257541187a280367b5a44c1f945ba164ef73.jpe</url></resource></object>
-    <object id="4" type="image" x="-10361.75" y="1579.35" r="0" s="8.6328668777287">
+    <object id="4" type="image" x="-74239.9238435551" y="11042.125840016495" r="0" s="61.852812464509185">
       <source w="600" h="408">1212842378<url>1212842378.png</url></source>
       <sourceUrl>http://richardlaw.files.wordpress.com/2013/10/wrong.png</sourceUrl>
     <resource><id>1212842378</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/1/2/4/7b25bd4dccdaef8005f5c2173b3a09636a974.png</url></resource></object>
-    <object id="9" type="text" x="-3860.154727409049" y="-2136.330836045914" r="0" s="3.1263090132572313" class="body">
+    <object id="9" type="text" x="-27657.257990897964" y="-15580.00481310733" r="0" s="22.3993961498431" class="body">
       <height>29.28</height>
       <width>-307.91999999999996</width>
       <p>
         <text><![CDATA[https://github.com/klacke/yaws]]></text>
       </p>
     </object>
-    <object id="10" type="text" x="1830.9714325849234" y="-3197.9617502274864" r="0" s="1.5668203396526164" class="body">
+    <object id="10" type="text" x="13118.554270738985" y="-23186.383872513677" r="0" s="11.225963055694585" class="body">
       <height>29.28</height>
       <width>-127.128</width>
       <p>
         <text><![CDATA[Contributors:]]></text>
       </p>
     </object>
-    <object id="11" type="text" x="2316.8924137441218" y="-2326.1730081894857" r="0" s="1.5668203396526161" class="body">
+    <object id="11" type="text" x="16600.083610401154" y="-16940.187060530192" r="0" s="11.225963055694583" class="body">
       <height>1054.0799999999997</height>
       <width>552</width>
       <p>
@@ -301,21 +301,21 @@
         <text><![CDATA[Matt Stancliff, Sebastian Stroll, Taavi Talvik, Brian Templeton, Nicolas Thauvin, Fredrik Thulin, TorbjĂśrn TĂśrnqvist, Tjeerd van der Laan, Pablo Vieytes, Steve Vinoski, Lev Walkin, wde, John Webb, David Welton, Claes WikstrĂśm, Dan Willemsen, Haobu Yu, Liu Yubao, Tomas Selander, Ulf Wiger, Garret Smith, Nicolas Adiba, Kalle Zetterlund, Tjeerd van der Laan, Kaloyan Dimitrov, Karolis Petrauskas]]></text>
       </p>
     </object>
-    <object id="12" type="button" x="2321.971456301419" y="-2313.330015193095" r="0" s="1.642640138567025" class="bracket">
+    <object id="12" type="button" x="16636.473962672917" y="-16848.16951311056" r="0" s="11.769197171286967" class="bracket">
       <type>bracket</type>
       <size>
         <w>563.749237014316</w>
         <h>1050.7999694194668</h>
       </size>
     </object>
-    <object id="13" type="button" x="-2708.4709900212442" y="-4829" r="0" s="1.338692549331175" class="roundrect">
+    <object id="13" type="button" x="-19405.667964548018" y="-34872.45576664708" r="0" s="9.591471798902797" class="roundrect">
       <type>roundrect</type>
       <size>
         <w>927.6831788512022</w>
         <h>600</h>
       </size>
     </object>
-    <object id="14" type="shape" x="-170.9561640896641" y="-4203.811765119484" r="20.662933842167483" s="6.456011067524971" class="line3">
+    <object id="14" type="shape" x="-1224.8676722178177" y="-30393.10363545147" r="20.662933842167487" s="46.256063887490306" class="line3">
       <geom type="arrow">
         <sp>280.57113999857614 25.806894392860112</sp>
         <ep>-280.5711399985761 25.806894392859977</ep>
@@ -323,14 +323,14 @@
         <t>10</t>
       </geom>
     </object>
-    <object id="15" type="text" x="-2734.6500000000015" y="-5149.5078125" r="0" s="2.8" class="strong">
+    <object id="15" type="text" x="-19593.23548037523" y="-37168.83191848094" r="0" s="20.06145552266309" class="strong">
       <height>31.9921875</height>
       <width>-217.1015625</width>
       <p>
         <text><![CDATA[Najważniejsze cechy]]></text>
       </p>
     </object>
-    <object id="16" type="text" x="-2778.351652892562" y="-4760.131862086776" r="0" s="1.652892561983471" class="body">
+    <object id="16" type="text" x="-19906.349325293435" y="-34379.028950334665" r="0" s="11.842653791418588" class="body">
       <height>380.64</height>
       <width>552</width>
       <p indent="1">
@@ -364,14 +364,14 @@
         <text><![CDATA[web site]]></text>
       </p>
     </object>
-    <object id="18" type="button" x="687.45" y="-5932.549999999999" r="0" s="0.9452173681627901" class="roundrect">
+    <object id="18" type="button" x="4925.44557109098" y="-42779.176924516665" r="0" s="6.772298639516598" class="roundrect">
       <type>roundrect</type>
       <size>
         <w>997.9643765903306</w>
         <h>600</h>
       </size>
     </object>
-    <object id="19" type="shape" x="-1086.3899716631433" y="-5710.257557723364" r="-20.58592795519427" s="4.61143647680355" class="line3">
+    <object id="19" type="shape" x="-7783.772891709772" y="-41186.494801746354" r="-20.58592795519427" s="33.04004563392164" class="line3">
       <geom type="arrow">
         <sp>-221.27217495231633 22.632980590883506</sp>
         <ep>221.27217495231633 22.632980590883506</ep>
@@ -379,18 +379,18 @@
         <t>10</t>
       </geom>
     </object>
-    <object id="20" type="text" x="682.5141385546876" y="-6163.818037910156" r="0" s="1.771561000000001" class="strong">
+    <object id="20" type="text" x="4890.081083644136" y="-44436.16744464101" r="0" s="12.692890073994489" class="strong">
       <height>31.9921875</height>
       <width>-142.734375</width>
       <p>
         <text><![CDATA[Zalety i wady]]></text>
       </p>
     </object>
-    <object id="25" type="image" x="682.55" y="-5940.45" r="0" s="0.6548226877987414">
+    <object id="25" type="image" x="4890.338023926319" y="-42835.77888831276" r="0" s="4.69167722375184">
       <source w="230" h="322">1213208668<url>1213208668.jpe</url></source>
       <sourceUrl>http://cdnpix.com/show/imgs/7b0421c2af032069d08b2c09ca7004c4.jpg</sourceUrl>
     <resource><id>1213208668</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/2/c/8/2760e1e99079fb9906c85829ec319da949f85.jpe</url></resource></object>
-    <object id="21" type="text" x="488.55" y="-5892.000000000001" r="0" s="1.4641000000000008" class="body">
+    <object id="21" type="text" x="3500.365748427519" y="-42488.644059715254" r="0" s="10.48999179668966" class="body">
       <height>175.68</height>
       <width>279.74269136646575</width>
       <p>
@@ -412,21 +412,21 @@
         <text><![CDATA[beauty - for some.]]></text>
       </p>
     </object>
-    <object id="22" type="text" x="355.0778" y="-6065.96416" r="0" s="1.4641000000000008" class="body">
+    <object id="22" type="text" x="2544.063389923236" y="-43735.0634377072" r="0" s="10.48999179668966" class="body">
       <height>29.28</height>
       <width>-47.61600000000001</width>
       <p>
         <text><![CDATA[pros:]]></text>
       </p>
     </object>
-    <object id="23" type="text" x="949.9639922000001" y="-6063.815576" r="0" s="1.4641000000000008" class="body">
+    <object id="23" type="text" x="6806.307277732774" y="-43719.669251152656" r="0" s="10.48999179668966" class="body">
       <height>29.28</height>
       <width>-50.136</width>
       <p>
         <text><![CDATA[cons:]]></text>
       </p>
     </object>
-    <object id="24" type="text" x="949.9053999999998" y="-5957.8158600000015" r="0" s="1.4641000000000008" class="body">
+    <object id="24" type="text" x="6805.887476013389" y="-42960.20189831377" r="0" s="10.48999179668966" class="body">
       <height>87.84</height>
       <width>-166.824</width>
       <p>
@@ -439,14 +439,14 @@
         <text><![CDATA[manuals.]]></text>
       </p>
     </object>
-    <object id="26" type="button" x="-2020" y="-6784" r="0" s="0.6261466175401553" class="roundrect">
+    <object id="26" type="button" x="-14472.907198492658" y="-48879.6506047922" r="0" s="4.486218756588487" class="roundrect">
       <type>roundrect</type>
       <size>
-        <w>970.8600770218227</w>
+        <w>970.8600770218228</w>
         <h>600</h>
       </size>
     </object>
-    <object id="27" type="shape" x="-592.1603398306789" y="-6686.735598993899" r="14.999999999999993" s="4.61143647680355" class="line3">
+    <object id="27" type="shape" x="-4242.713685642224" y="-48182.7700852485" r="14.999999999999993" s="33.04004563392164" class="line3">
       <geom type="arrow">
         <sp>197.3401504214659 21.364664981021967</sp>
         <ep>-197.34015042146592 21.364664981021868</ep>
@@ -454,25 +454,25 @@
         <t>10</t>
       </geom>
     </object>
-    <object id="28" type="text" x="-2030.1301757812507" y="-6942.700820312501" r="0" s="1.2100000000000002" class="strong">
+    <object id="28" type="text" x="-14545.487938089916" y="-50016.71112197413" r="0" s="8.669414708007979" class="strong">
       <height>31.9921875</height>
       <width>-66.85546875</width>
       <p>
         <text><![CDATA[LYME]]></text>
       </p>
     </object>
-    <object id="29" type="image" x="-2019.65" y="-6762.5" r="0" s="0.5276119460651842">
+    <object id="29" type="image" x="-14470.399516552327" y="-48725.60728560033" r="0" s="3.78023699614729">
       <source w="800" h="450">1213217348<url>1213217348.png</url></source>
       <sourceUrl>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/LYME_software_bundle.svg/800px-LYME_software_bundle.svg.png</sourceUrl>
     <resource><id>1213217348</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/f/d/6/97eb1463c9dbc3b7b733d42ba2eb62dfe79c3.png</url></resource></object>
-    <object id="30" type="button" x="263.35" y="-7701.099999999999" r="0" s="0.5211619366960667" class="roundrect">
+    <object id="30" type="button" x="1924.1085287897047" y="-55433.656475990814" r="0" s="3.7340239332618212" class="roundrect">
       <type>roundrect</type>
       <size>
         <w>981.6843826655764</w>
         <h>600</h>
       </size>
     </object>
-    <object id="31" type="shape" x="-913.778908555487" y="-7418.631330023138" r="-20.260491130251875" s="2.857142857142857" class="line3">
+    <object id="31" type="shape" x="-6547.048189833402" y="-53426.66067641638" r="-20.260491130251875" s="20.470872982309277" class="line3">
       <geom type="arrow">
         <sp>-286.8636183345091 30.5382826820942</sp>
         <ep>286.8636183345091 30.5382826820942</ep>
@@ -480,28 +480,21 @@
         <t>10</t>
       </geom>
     </object>
-    <object id="32" type="text" x="260.91871166992195" y="-7834.619065527344" r="0" s="0.8052550000000004" class="strong">
+    <object id="32" type="text" x="1906.688820683765" y="-56390.29461688521" r="0" s="5.7694954881793095" class="strong">
       <height>31.9921875</height>
       <width>-155.56640625</width>
       <p>
         <text><![CDATA[Uruchamianie]]></text>
       </p>
     </object>
-    <object id="33" type="text" x="224.97944275" y="-7722.869065527344" r="0" s="0.8052550000000004" class="strong">
-      <height>31.9921875</height>
-      <width>-72.140625</width>
-      <p>
-        <text><![CDATA[TODO]]></text>
-      </p>
-    </object>
-    <object id="34" type="button" x="-1419.65" y="-8127.65" r="0" s="0.4226478004809605" class="roundrect">
+    <object id="34" type="button" x="-5869.050461210525" y="-72510.61224938053" r="0" s="2.7586909811685696" class="roundrect">
       <type>roundrect</type>
       <size>
         <w>963.4854771784233</w>
         <h>600</h>
       </size>
     </object>
-    <object id="35" type="shape" x="-554.3774382789944" y="-8041.912745784124" r="14.999999999999993" s="2.0408163265306127" class="line3">
+    <object id="35" type="shape" x="-3972.0065431435532" y="-57892.350819413354" r="14.999999999999993" s="14.622052130220915" class="line3">
       <geom type="arrow">
         <sp>266.8981634636373 23.167606397995463</sp>
         <ep>-266.8981634636373 23.167606397995335</ep>
@@ -509,21 +502,716 @@
         <t>10</t>
       </geom>
     </object>
-    <object id="36" type="text" x="-1425.1823993164062" y="-8234.140059570313" r="0" s="0.7320500000000003" class="strong">
+    <object id="36" type="text" x="-5898.960527350458" y="-73228.53526946848" r="0" s="4.77820949373526" class="strong">
       <height>31.9921875</height>
       <width>-117.15234375</width>
       <p>
         <text><![CDATA[Wydajność]]></text>
       </p>
     </object>
-    <object id="37" type="image" x="-1419.65" y="-8127.65" r="0" s="0.3109133244917411">
+    <object id="37" type="image" x="-5899.075409876849" y="-72647.3563090674" r="0" s="2.029381871204465">
       <source w="640" h="450">1213224823<url>1213224823.jpe</url></source>
       <sourceUrl>http://www.sics.se/~joe/images/apachevsyaws.jpg</sourceUrl>
     <resource><id>1213224823</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/5/a/6/475370929fdcdabe831100742ceb7aec26694.jpe</url></resource></object>
+    <object id="3_68984211" type="button" x="-10329.858392785542" y="-58610.531254115376" r="0" s="4.06426854679804" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>806</w>
+        <h>461.6087516087516</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>off-the-map-locked</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="15_68984211" type="text" x="-10329.50015250835" y="-59395.32030173662" r="0" s="8.457461059053557" class="strong">
+      <height>31.9921875</height>
+      <width>-184.3828125</width>
+      <p>
+        <text><![CDATA[Dynamic content]]></text>
+      </p>
+    </object>
+    <object id="16_68984211" type="text" x="1075.8593191721477" y="-55576.79496114501" r="0" s="3.5824027719041243" class="body body-background">
+      <height>117.12</height>
+      <width>-487.94399999999996</width>
+      <p>
+        <text><![CDATA[ebin_dir =        #Gdzie są nasze pliki .beam]]></text>
+      </p>
+      <p>
+        <text><![CDATA[logdir =             #Gdzie są zapisywane logi]]></text>
+      </p>
+      <p>
+        <text><![CDATA[include_dir =   #Gdzie są pliki nagłówkowe .hrl]]></text>
+      </p>
+      <p>
+        <text><![CDATA[subconfigdir =  #Gdzie są nasze pliki konfiguracyjne]]></text>
+      </p>
+    </object>
+    <object id="17_68984211" type="text" x="992.6120246495591" y="-55957.28255358409" r="0" s="3.940643049094537" class="head">
+      <height>31.9921875</height>
+      <width>-221.42578125</width>
+      <p>
+        <text><![CDATA[/etc/yaws/yaws.conf]]></text>
+      </p>
+    </object>
+    <object id="18_68984211" type="text" x="1264.946418759346" y="-56158.01831646982" r="0" s="3.940643049094537" class="head">
+      <height>31.9921875</height>
+      <width>-503.00390625</width>
+      <p>
+        <text><![CDATA[Na początku konfigurujemy nasze ustawienia:]]></text>
+      </p>
+    </object>
+    <object id="19_68984211" type="text" x="2773.4962260081725" y="-54716.1012007784" r="0" s="3.0590861919479524" class="body body-background">
+      <height>146.4</height>
+      <width>-439.51200000000006</width>
+      <p>
+        <text><![CDATA[<server localhost>]]></text>
+      </p>
+      <p>
+        <text><![CDATA[    port = 8080]]></text>
+      </p>
+      <p>
+        <text><![CDATA[    listen = 0.0.0.0]]></text>
+      </p>
+      <p>
+        <text><![CDATA[    docroot = #Gdzie są nasze pliki .yaws i .html]]></text>
+      </p>
+      <p>
+        <text><![CDATA[</server>]]></text>
+      </p>
+    </object>
+    <object id="20_68984211" type="text" x="2773.9368615491176" y="-55155.647691279955" r="0" s="3.940643049094537" class="body">
+      <height>29.28</height>
+      <width>-406.43999999999994</width>
+      <p>
+        <text><![CDATA[Plik localhost.conf w folderze subconfigdir:]]></text>
+      </p>
+    </object>
+    <object id="21_68984211" type="text" x="-10224.351569848393" y="-59199.30049795297" r="0" s="2.9408016612866907" class="body">
+      <height>29.28</height>
+      <width>995.3349165404204</width>
+      <p>
+        <text><![CDATA[Możemy dynamicznie zmieniać zawartość naszej strony używając zamiast plików .html pliki .yaws:]]></text>
+      </p>
+    </object>
+    <object id="22_68984211" type="text" x="-11331.993708830087" y="-58490.6699674604" r="0" s="2.6734560557151736" class="body body-background">
+      <height>439.1999999999998</height>
+      <width>-312.14400000000006</width>
+      <p>
+        <text><![CDATA[<html>]]></text>
+      </p>
+      <p>
+        <text><![CDATA[<h1>Pierwsza strona w yaws</h1>]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[<erl>]]></text>
+      </p>
+      <p>
+        <text><![CDATA[out(A) ->]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[{html, "<p>Hello, yaws!</p>"}.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[</erl>]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[<erl>]]></text>
+      </p>
+      <p>
+        <text><![CDATA[out(A) ->]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[{ehtml,]]></text>
+      </p>
+      <p indent="2">
+        <text><![CDATA[[ {p, [ ], "Hello, yaws!"}]}.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[</erl]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[</html>]]></text>
+      </p>
+    </object>
+    <object id="27_68984211" type="button" x="-7000.7314968550345" y="-65663.20759116302" r="0" s="4.06426854679804" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>806</w>
+        <h>461.6087516087516</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>off-the-map-locked</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="28_68984211" type="text" x="-6923.709837259099" y="-66399.39136078932" r="0" s="8.457461059053557" class="strong">
+      <height>31.9921875</height>
+      <width>258.6253521302764</width>
+      <p>
+        <text><![CDATA[Dostęp do POST, GET ]]></text>
+      </p>
+    </object>
+    <object id="32_68984211" type="text" x="-7957.197427824605" y="-66026.18394872219" r="0" s="3.914207011172586" class="body">
+      <height>29.28</height>
+      <width>-55.104000000000006</width>
+      <p>
+        <text><![CDATA[POST:]]></text>
+      </p>
+    </object>
+    <object id="34_68984211" type="text" x="-6295.027346970214" y="-65767.39100876705" r="0" s="3.2348818274153603" class="body body-background">
+      <height>29.28</height>
+      <width>-247.99200000000005</width>
+      <p>
+        <text><![CDATA[yaws_api:parse_query(A)]]></text>
+      </p>
+    </object>
+    <object id="35_68984211" type="text" x="-6295.120381967525" y="-66021.30487731524" r="0" s="3.914207011172586" class="body">
+      <height>29.28</height>
+      <width>-42.79200000000001</width>
+      <p>
+        <text><![CDATA[GET:]]></text>
+      </p>
+    </object>
+    <object id="36_68984211" type="text" x="-7069.493304698321" y="-65450.263169755824" r="0" s="3.5583700101568967" class="body">
+      <height>29.28</height>
+      <width>-313.584</width>
+      <p>
+        <text><![CDATA[W wyniku dostajemy listę krotek:]]></text>
+      </p>
+    </object>
+    <object id="37_68984211" type="text" x="-7106.983047807448" y="-65154.441894494266" r="0" s="2.940801661286691" class="body body-background">
+      <height>29.28</height>
+      <width>-354.19200000000006</width>
+      <p>
+        <text><![CDATA[[ {"name", "Mateusz"}, {"points", "6"} ]]]></text>
+      </p>
+    </object>
+    <object id="38_68984211" type="text" x="-7957.1727030146785" y="-65775.80707677318" r="0" s="3.2348818274153603" class="body body-background">
+      <height>29.28</height>
+      <width>-224.328</width>
+      <p>
+        <text><![CDATA[yaws_api:pars_post(A)]]></text>
+      </p>
+    </object>
+    <object id="39_68984211" type="button" x="-443.38741191381087" y="-62365.43775869244" r="0" s="4.626262319101179" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>806</w>
+        <h>461.6087516087516</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>off-the-map-locked</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="40_68984211" type="text" x="-484.91217858477376" y="-63273.43272243146" r="0" s="9.626931134654" class="strong">
+      <height>31.9921875</height>
+      <width>-174.15234375</width>
+      <p>
+        <text><![CDATA[Moduły Erlanga]]></text>
+      </p>
+    </object>
+    <object id="43_68984211" type="text" x="-1618.889121237826" y="-63048.15706993561" r="0" s="4.050409786129359" class="body">
+      <height>29.28</height>
+      <width>-149.304</width>
+      <p>
+        <text><![CDATA[Nasz pfactorial:]]></text>
+      </p>
+    </object>
+    <object id="44_68984211" type="text" x="-307.37015782937385" y="-62228.75805373852" r="0" s="4.050409786129359" class="body body-background">
+      <height>322.0799999999999</height>
+      <width>677.6537269372686</width>
+      <p>
+        <text><![CDATA[<html>]]></text>
+      </p>
+      <p>
+        <text><![CDATA[<erl>]]></text>
+      </p>
+      <p>
+        <text><![CDATA[out(A) ->]]></text>
+      </p>
+      <p>
+        <text><![CDATA[   {ehtml, [ {ul, [], listOfFactorials(pfactorial:start(100, 4)) } ] };]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[listOfFactorials([]) -> [];]]></text>
+      </p>
+      <p>
+        <text><![CDATA[listOfFactorials([H | T]) ->]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[ [{li, [], io_lib:format("~p", [H])} | listOfFactorials(T)].]]></text>
+      </p>
+      <p>
+        <text><![CDATA[</erl>]]></text>
+      </p>
+      <p>
+        <text><![CDATA[</html>]]></text>
+      </p>
+    </object>
+    <object id="17_68953735" type="button" x="-9947.65" y="-66497.95" r="0" s="2.4703893650140665" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>937.8640776699029</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="45_68984211" type="text" x="-9950.481939240894" y="-66380.76286637541" r="0" s="3.5583700101568967" class="body body-background">
+      <height>292.79999999999995</height>
+      <width>593.7080380952369</width>
+      <p>
+        <text><![CDATA[<html>]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[<h1> Example 4 </h1>]]></text>
+      </p>
+      <p>
+        <text><![CDATA[<a href="index.yaws">Back to index</a>]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[<form action="example4.yaws" method="post">]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ <p>Number:</p>]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ <input name="number" type="text">]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ <input type="submit">]]></text>
+      </p>
+      <p>
+        <text><![CDATA[</form>]]></text>
+      </p>
+    </object>
+    <object id="0_68953735" type="shape" x="-5636.442200062296" y="-61287.56921408915" r="-27.783136944266197" s="10.235436491154639" class="line3">
+      <geom type="arrow">
+        <sp>-310.76925616089744 30.934177143614303</sp>
+        <ep>310.7692561608974 30.934177143614303</ep>
+        <b>-61.86835428722861</b>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="1_68953735" type="shape" x="-3496.8330124673676" y="-64517.84369352642" r="32.39355578075777" s="10.235436491154639" class="line3">
+      <geom type="arrow">
+        <sp>157.49964604433092 16.73397538745687</sp>
+        <ep>-157.49964604433092 16.73397538745679</ep>
+        <b>33.46795077491366</b>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="2_68953735" type="shape" x="-3949.990422161582" y="-68381.03766619587" r="-32.897273044749944" s="7.311026065110455" class="line3">
+      <geom type="arrow">
+        <sp>-287.8340683369279 41.62587286525706</sp>
+        <ep>287.8340683369278 41.625872865257065</ep>
+        <b>-83.25174573051413</b>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="47_68984211" type="button" x="-919.9610318249785" y="-75675.30685808066" r="0" s="2.31848740549606" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>963.4854771784233</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="48_68984211" type="text" x="-920.085935759788" y="-76265.50559515317" r="0" s="4.0157518938037144" class="strong">
+      <height>31.9921875</height>
+      <width>-294.3046875</width>
+      <p>
+        <text><![CDATA[Wydajność - nasz mały test]]></text>
+      </p>
+    </object>
+    <object id="52_68984211" type="image" x="-364.99004752302295" y="-75838.87337394935" r="0" s="1.5974014687109033">
+      <source w="659" h="239">1214836368<url>1214836368.png</url></source>
+      <sourceUrl>apache.png</sourceUrl>
+    <resource><id>1214836368</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/b/7/bf0ab8a952703fa1455a1cb0d96de4fd7f27c.png</url></resource></object>
+    <object id="53_68984211" type="image" x="-1425.7356710008557" y="-75588.35969939371" r="0" s="1.5728816472409166">
+      <source w="660" h="289">1214836408<url>1214836408.png</url></source>
+      <sourceUrl>yaws.png</sourceUrl>
+    <resource><id>1214836408</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/e/b/102088fbd314fd5530a4fb1935398c5552e3c.png</url></resource></object>
+    <object id="54_68984211" type="text" x="-1426.0122287929835" y="-75895.18600816595" r="0" s="4.0157518938037144" class="body">
+      <height>29.28</height>
+      <width>-47.496</width>
+      <p>
+        <text><![CDATA[Yaws]]></text>
+      </p>
+    </object>
+    <object id="55_68984211" type="text" x="-365.2109095592235" y="-76094.58848250481" r="0" s="4.0157518938037144" class="body">
+      <height>29.28</height>
+      <width>-70.776</width>
+      <p>
+        <text><![CDATA[Apache]]></text>
+      </p>
+    </object>
+    <object id="56_68984211" type="text" x="-904.8755626521605" y="-75196.68606341585" r="0" s="2.4934659789779086" class="body">
+      <height>87.84</height>
+      <width>826.2982359093744</width>
+      <p>
+        <text><![CDATA[Przy 20000 requestów yaws obsłużył 19989, a Apache 13796. Wynik nie jest tak dobry, jak w testach z 2002 roku - yaws miał działać przy 80000 requestów, a Apache przy 4000.]]></text>
+      </p>
+    </object>
+    <object id="57_68984211" type="text" x="-5842.945939571036" y="-71913.06146166303" r="0" s="3.263581376774306" class="body">
+      <height>117.12</height>
+      <width>793.8807138931029</width>
+      <p>
+        <text><![CDATA["A load test conducted in 2002 comparing Yaws and Apache found that with the hardware tested, Apache 2.0.39 with the worker MPM failed at 4,000 concurrent connections, while Yaws continued functioning with over 80,000 concurrent connections."]]></text>
+      </p>
+    </object>
+    <object id="58_68984211" type="shape" x="-2715.9864130143446" y="-71900.4476227485" r="22.52277823857251" s="7.311026065110457" class="line3">
+      <geom type="arrow">
+        <sp>190.66289116651924 18.768938250786356</sp>
+        <ep>-190.66289116651924 18.768938250786256</ep>
+        <b>37.53787650157261</b>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="59_68984211" type="button" x="103.17319983083873" y="-70032.66425205448" r="0" s="3.814142584185419" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>806</w>
+        <h>461.6087516087516</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>off-the-map-locked</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="60_68984211" type="text" x="118.59828993531673" y="-70768.434867514" r="0" s="7.9369662727724855" class="strong">
+      <height>31.9921875</height>
+      <width>334.69301181517574</width>
+      <p>
+        <text><![CDATA[Wygoda - czasem lepiej HTML]]></text>
+      </p>
+    </object>
+    <object id="63_68984211" type="text" x="-721.7552265693083" y="-70202.26940902467" r="0" s="2.675167479939455" class="body body-background">
+      <height>146.4</height>
+      <width>-438.936</width>
+      <p>
+        <text><![CDATA[<form action="example1.yaws" method="post">]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[<p>Your name:</p>]]></text>
+      </p>
+      <p indent="2">
+        <text><![CDATA[ <input name="name" type="text">]]></text>
+      </p>
+      <p indent="2">
+        <text><![CDATA[ <input type="submit">]]></text>
+      </p>
+      <p>
+        <text><![CDATA[</form>]]></text>
+      </p>
+    </object>
+    <object id="64_68984211" type="text" x="785.7539271701147" y="-69967.21708952023" r="0" s="2.675167479939455" class="body body-background">
+      <height>322.0799999999999</height>
+      <width>552</width>
+      <p>
+        <text><![CDATA[<erl>]]></text>
+      </p>
+      <p>
+        <text><![CDATA[out(A) ->]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[{ehtml, ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[        [{form, [{action, "example1.yaws"}, {method, "post"}], ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[          [{p, [], "Your name:"},]]></text>
+      </p>
+      <p>
+        <text><![CDATA[           {input, [{name, "name"}, {type, "text"}], [ ]},]]></text>
+      </p>
+      <p>
+        <text><![CDATA[           {input, [{type, "submit"}], [ ]}]]></text>
+      </p>
+      <p>
+        <text><![CDATA[          ]}]]></text>
+      </p>
+      <p>
+        <text><![CDATA[        ]]]></text>
+      </p>
+      <p>
+        <text><![CDATA[       }.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[</erl>]]></text>
+      </p>
+    </object>
+    <object id="65_68984211" type="shape" x="-3670.9272991230687" y="-74631.79102320274" r="150.00000000000003" s="7.311026065110461" class="line3">
+      <geom type="arrow">
+        <sp>217.56122668785676 -24.54592610575117</sp>
+        <ep>-217.56122668785676 -24.54592610575127</ep>
+        <b>-49.09185221150244</b>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="66_68984211" type="image" x="-9772.078281200069" y="-58483.71419598997" r="0" s="2.5548538481492145">
+      <source w="783" h="485">1214953813<url>1214953813.png</url></source>
+      <sourceUrl>dynamic.png</sourceUrl>
+    <resource><id>1214953813</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/2/b/3b9126fa2ec5ffbbaa7932cc48c737cc2fc39.png</url></resource></object>
+    <object id="67_68984211" type="text" x="-9947.61601702337" y="-64563.40994018846" r="0" s="3.914207011172586" class="body body-background">
+      <height>527.0399999999997</height>
+      <width>523.0694857142837</width>
+      <p>
+        <text><![CDATA[<erl>]]></text>
+      </p>
+      <p>
+        <text><![CDATA[out(A) ->]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ case yaws_api:parse_post(A) of]]></text>
+      </p>
+      <p>
+        <text><![CDATA[  [{"number", Number} | _ ] ->]]></text>
+      </p>
+      <p>
+        <text><![CDATA[   {Num, _} = string:to_integer(Number),]]></text>
+      </p>
+      <p>
+        <text><![CDATA[   {ehtml, []]></text>
+      </p>
+      <p>
+        <text><![CDATA[    {ul, [], listOfFactorials(pfactorial:start(Num, 4))}]]></text>
+      </p>
+      <p>
+        <text><![CDATA[   ]};]]></text>
+      </p>
+      <p>
+        <text><![CDATA[  _ ->]]></text>
+      </p>
+      <p>
+        <text><![CDATA[    {ehtml, []]></text>
+      </p>
+      <p>
+        <text><![CDATA[        {p, [], "Number not posted"}]]></text>
+      </p>
+      <p>
+        <text><![CDATA[     ]}]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ end.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[listOfFactorials([]) -> [];]]></text>
+      </p>
+      <p>
+        <text><![CDATA[listOfFactorials([H | T]) ->]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ [{li, [], io_lib:format("~p", [H])} | listOfFactorials(T)].]]></text>
+      </p>
+      <p>
+        <text><![CDATA[</erl>]]></text>
+      </p>
+    </object>
+    <object id="68_68984211" type="text" x="-9994.903733612502" y="-67138.08281235596" r="0" s="7.23285584872577" class="body">
+      <height>29.28</height>
+      <width>-234.336</width>
+      <p>
+        <text><![CDATA[Praktyczne użycie POSTa]]></text>
+      </p>
+    </object>
+    <object id="70_68984211" type="button" x="-4801.852675460288" y="-77930.07116271713" r="0" s="2.31848740549606" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>963.4854771784233</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="71_68984211" type="text" x="-4801.910747292061" y="-78535.67423170878" r="0" s="4.015751893803715" class="strong">
+      <height>31.9921875</height>
+      <width>-167.390625</width>
+      <p>
+        <text><![CDATA[Przydatne linki]]></text>
+      </p>
+    </object>
+    <object id="77_68984211" type="text" x="-4798.270272688384" y="-77845.88469757735" r="0" s="4.015751893803715" class="body">
+      <height>29.28</height>
+      <width>-471.6</width>
+      <p>
+        <text><![CDATA[Nitrogen framework:  http://nitrogenproject.com/]]></text>
+      </p>
+    </object>
+    <object id="78_68984211" type="text" x="-5105.7482888969025" y="-78339.14235700248" r="0" s="4.015751893803715" class="body">
+      <height>29.28</height>
+      <width>-318.696</width>
+      <p>
+        <text><![CDATA[Strona główna:  http://hyber.org/]]></text>
+      </p>
+    </object>
+    <object id="79_68984211" type="text" x="-4932.2678070845795" y="-78175.0683100493" r="0" s="4.015751893803715" class="body">
+      <height>29.28</height>
+      <width>-405.096</width>
+      <p>
+        <text><![CDATA[Dokumentacja:  http://hyber.org/yaws.pdf]]></text>
+      </p>
+    </object>
+    <object id="80_68984211" type="text" x="-4816.212577353655" y="-78018.51730891709" r="0" s="4.015751893803715" class="body">
+      <height>29.28</height>
+      <width>-462.816</width>
+      <p>
+        <text><![CDATA[Yaws wiki:  https://github.com/klacke/yaws/wiki]]></text>
+      </p>
+    </object>
+    <object id="81_68984211" type="shape" x="-2632.3341786391093" y="-77179.04263697102" r="30.00000000000003" s="7.31102606511046" class="line3">
+      <geom type="arrow">
+        <sp>155.0732966617159 16.74254382224864</sp>
+        <ep>-155.07329666171586 16.742543822248617</ep>
+        <b>33.485087644497256</b>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="3_68953735" type="text" x="-4798.31954979072" y="-77541.0187107158" r="0" s="3.650683539821559" class="strong">
+      <height>31.9921875</height>
+      <width>-392.109375</width>
+      <p>
+        <text weight="normal" style="normal"><![CDATA[https://github.com/MrLynx93/Erlang]]></text>
+      </p>
+    </object>
+    <object id="4_68953735" type="button" x="-2857.6826911479193" y="-80796.7098607948" r="0" s="1.122300301142729" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1064.0576725025746</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="5_68953735" type="shape" x="-4323.992957369947" y="-79740.69173949998" r="-54.51038528574184" s="5.117718245577319" class="line3">
+      <geom type="arrow">
+        <sp>-197.17382830141617 39.23623194230959</sp>
+        <ep>197.17382830141617 39.23623194230959</ep>
+        <b>-78.47246388461917</b>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="6_68953735" type="text" x="-2903.9993806732164" y="-81086.9645995998" r="0" s="2.1673536770019948" class="strong">
+      <height>31.9921875</height>
+      <width>-103.734375</width>
+      <p>
+        <text><![CDATA[Wniosek?]]></text>
+      </p>
+    </object>
+    <object id="7_68953735" type="image" x="-2857.6826911479193" y="-80765.54295667924" r="0" s="0.5464033086697345">
+      <source w="989" h="627">1216218923<url>1216218923.png</url></source>
+      <sourceUrl>Bez tytułu.png</sourceUrl>
+    <resource><id>1216218923</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/2/0/c73c492800d53bc71df26acdc9b6cce654865.png</url></resource></object>
+    <object id="8_68953735" type="text" x="-2873.534823413594" y="-80996.52537227815" r="0" s="1.7912013859520617" class="body">
+      <height>29.28</height>
+      <width>-351.91200000000003</width>
+      <p>
+        <text><![CDATA[YAWS - obsługuje 20 000 requestów.]]></text>
+      </p>
+    </object>
+    <object id="9_68953735" type="text" x="-2857.5035710093225" y="-80527.24152429219" r="0" s="1.7912013859520617" class="body">
+      <height>29.28</height>
+      <width>-312.624</width>
+      <p>
+        <text><![CDATA[Wirtualna Uczelnia obsługuje 2...]]></text>
+      </p>
+    </object>
+    <object id="10_68953735" type="button" x="-11065.683922134647" y="57649.90238304352" r="0" s="1.3738477192294045" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>918.75</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="11_68953735" type="text" x="-11075.678650946247" y="57313.42373334754" r="0" s="2.1673536770019948" class="strong">
+      <height>31.9921875</height>
+      <width>-230.19140625</width>
+      <p>
+        <text><![CDATA[Dziękujemy za uwagę]]></text>
+      </p>
+    </object>
+    <object id="12_68953735" type="text" x="-11514.916334130732" y="57520.07928317343" r="0" s="2.1673536770019948" class="body">
+      <height>29.28</height>
+      <width>-68.136</width>
+      <p>
+        <text><![CDATA[Źródła:]]></text>
+      </p>
+    </object>
+    <object id="13_68953735" type="text" x="-11410.124783847687" y="57631.12056179098" r="0" s="2.1673536770019948" class="body">
+      <height>29.28</height>
+      <width>-164.832</width>
+      <p>
+        <text><![CDATA[http://hyber.org/]]></text>
+      </p>
+    </object>
+    <object id="14_68953735" type="text" x="-11372.196094500148" y="57754.35521714449" r="0" s="2.1673536770019948" class="body">
+      <height>29.28</height>
+      <width>-199.824</width>
+      <p>
+        <text><![CDATA[http://wikipedia.com]]></text>
+      </p>
+    </object>
+    <object id="15_68953735" type="text" x="-11127.393496682776" y="57981.8377931604" r="0" s="2.1673536770019948" class="body">
+      <height>29.28</height>
+      <width>-425.736</width>
+      <p>
+        <text><![CDATA[http://www.sics.se/~joe/apachevsyaws.html]]></text>
+      </p>
+    </object>
+    <object id="19_68953735" type="image" x="-10771.926894838509" y="57648.11118165757" r="0" s="0.977627246322232">
+      <source w="418" h="411">1216244888<url>1216244888.jpe</url></source>
+      <sourceUrl>http://images.sodahead.com/profiles/0/0/1/8/5/7/1/2/1/Thank-you-cat-17842704083.jpeg</sourceUrl>
+    <resource><id>1216244888</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/5/a/f/8e33a4cbe319fd56740efaab6aecf6e71a692.jpe</url></resource></object>
+    <object id="16_68953735" type="text" x="-11192.847577728237" y="57876.15691138923" r="0" s="2.1673536770019948" class="body">
+      <height>29.28</height>
+      <width>-365.304</width>
+      <p>
+        <text><![CDATA[https://github.com/klacke/yaws/wiki/]]></text>
+      </p>
+    </object>
+    <object id="18_68953735" type="text" x="-10771.841096292123" y="57412.10248704452" r="0" s="1.7912013859520617" class="body">
+      <height>29.28</height>
+      <width>-158.52</width>
+      <p>
+        <text><![CDATA[Zadowolony kot:]]></text>
+      </p>
+    </object>
   </zui-table>
   <background>
-    <layer depth="6.38212912330378" fadescale="0.3447125492912536">
-      <object id="background871681165" type="image" x="-1091.5234218174294" y="-11900.584687544337" r="0" s="61.1573896715065">
+    <layer depth="45.72671412394699" fadescale="0.04811191974207182">
+      <object id="background871681165" type="image" x="-7820.553063834065" y="-85538.98493947425" r="0" s="438.180804563251">
         <source w="1096" h="725">871681165<url>871681165.png</url></source>
         <sourceUrl>fog_superpurple5_unchecked.png</sourceUrl>
       <resource><id>871681165</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/b/6/70bd590b08d09fee0289bc25396cb4b84dc00.png</url></resource></object>
@@ -564,10 +1252,49 @@
       <eagle o="30"/>
     </s>
     <s>
+      <eagle o="3_68984211"/>
+    </s>
+    <s>
+      <eagle o="39_68984211"/>
+    </s>
+    <s>
+      <eagle o="27_68984211"/>
+    </s>
+    <s>
+      <eagle o="17_68953735"/>
+    </s>
+    <s>
+      <eagle o="67_68984211"/>
+    </s>
+    <s>
+      <eagle o="59_68984211"/>
+    </s>
+    <s>
       <eagle o="34"/>
     </s>
     <s>
+      <eagle o="47_68984211"/>
+    </s>
+    <s>
+      <eagle o="70_68984211"/>
+    </s>
+    <s>
+      <eagle o="4_68953735"/>
+    </s>
+    <s>
+      <buildin o="8_68953735"/>
+    </s>
+    <s>
+      <buildin o="7_68953735"/>
+    </s>
+    <s>
+      <buildin o="9_68953735"/>
+    </s>
+    <s>
       <eagle o="1_24309637"/>
+    </s>
+    <s>
+      <eagle o="10_68953735"/>
     </s>
   </path>
   <style type="text/css"><![CDATA[
@@ -611,17 +1338,17 @@
 
 @font-face
 {
-	src: url('Arsenal-Italic.keg');
+	src: url('Arsenal-BoldItalic.keg');
 	font-style: italic;
-	font-weight: normal;
+	font-weight: bold;
 	font-family: Arsenal;
 }
 
 @font-face
 {
-	src: url('Arsenal-BoldItalic.keg');
+	src: url('Arsenal-Italic.keg');
 	font-style: italic;
-	font-weight: bold;
+	font-weight: normal;
 	font-family: Arsenal;
 }
 
@@ -896,5 +1623,5 @@ ZPoly
 }
 
 ]]></style>
-  <hash>42dd3892</hash>
-<sync><oid>b9auugshb-fo</oid><title>yaws</title><hash>42dd3892</hash></sync><config>NdtZnxf0EgvsL+VmKmSgK9eyLvKO7GgziT6wfXJ+TJkAnJtUMI21/S+8Va4gYR53N0Qu0WivILX947HxWF7qhOj8aQS/9SrAHm8d9vXdsAoMrBl4FHeVwrJV/jDCvqKYWrvpogD4n473oLvpTW2ZdWpSoI9TWWUmda1pF77NVmTmYuDDnnH2kOw+LRrqmD1KP2E6Fux9XkBa3XAl4NP7EfALa0GJgiEKJK3olKlNU6jr4SELez+BJ95vPFrcOsa/RgRBcF0t7uPbzmY2ijosMhdoMzgTsPaLpAkst5FU7tsEpb/6OZH66SP4vKJHHtmqG/SvQzbCzpEZbConH7JcUg==</config></zuiprezi>
+  <hash>1d033322</hash>
+<sync><oid>b9auugshb-fo</oid><title>yaws</title><hash>1d033322</hash></sync><config>M8ANz9UVlMDhVfxP7xjql5kB1/xkwwFf7HDWtTQygcEJXKg8OdYKMBYM19qlUqvwwOXFcoxeLcnVtcSHB6osP8oticsxQEPWHAZQBtT3yLkGLmYf0YWRKTmGA1un8edbvKa41MS8Sx648L4rH05/qGZOPtDyu/kH/H/9kW9YKgKoUTUV6TrGdPXEpDnFExJnSdcH/3CKx452AKWoR6ygmK+VykFqr9Kwi4PeZ6TW+mlBUFToLG9cmcvsBZi+/t6EBX/TnfYv1PjhBfoJdv/6QylSV28CBMuy4E0oVdZ/Ij6otR2cIoPMG6gn9PJie0NDUpqlQTVHXY4ubCQw5yyHcA==</config></zuiprezi>
